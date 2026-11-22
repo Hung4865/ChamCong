@@ -1,0 +1,21 @@
+{
+  "period_mode": "25-24",
+  "morning_cutoff": "13:00:00",
+  "latest_in": "08:03:00",
+  "earliest_out": "17:00:35",
+  "shift_start": "08:00:00",
+  "shift_end": "17:00:00",
+  "workdays": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "holidays": [],
+  "credit_partial_notices": true,
+  "name_aliases": {},
+  "date_corrections": {},
+  "template": "Mau_TongHop.xlsx",
+  "employees": "NhanVien.csv"
+}

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+~$*
+
+# Historical local reports; keep only the requested November test inputs.
+/*.xlsx
+/*.xls
+/*.csv
+/*.txt
+!/requirements.txt
+/ket_qua/*
+!/ket_qua/test thang 11/

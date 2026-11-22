@@ -1,0 +1,2615 @@
+﻿time,employeeNoString,name,cardReaderNo,doorNo,currentVerifyMode
+2026-10-26T07:15:52+07:00,,,,1,invalid
+2026-10-26T07:15:52+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:15:57+07:00,,,,1,invalid
+2026-10-26T07:22:38+07:00,,,,1,invalid
+2026-10-26T07:22:38+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:22:43+07:00,,,,1,invalid
+2026-10-26T07:29:23+07:00,,,,1,invalid
+2026-10-26T07:29:23+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:29:28+07:00,,,,1,invalid
+2026-10-26T07:43:39+07:00,,,,1,invalid
+2026-10-26T07:43:39+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:43:44+07:00,,,,1,invalid
+2026-10-26T07:49:31+07:00,,,,1,invalid
+2026-10-26T07:49:31+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:49:32+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:49:34+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:49:35+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:49:38+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:49:43+07:00,,,,1,invalid
+2026-10-26T07:49:59+07:00,,,,1,invalid
+2026-10-26T07:49:59+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:50:04+07:00,,,,1,invalid
+2026-10-26T07:50:39+07:00,,,,1,invalid
+2026-10-26T07:50:39+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:50:44+07:00,,,,1,invalid
+2026-10-26T07:51:29+07:00,,,,1,invalid
+2026-10-26T07:51:29+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:51:33+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:51:36+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:51:41+07:00,,,,1,invalid
+2026-10-26T07:55:02+07:00,,,,1,invalid
+2026-10-26T07:55:02+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:55:07+07:00,,,,1,invalid
+2026-10-26T07:56:44+07:00,,,,1,invalid
+2026-10-26T07:56:44+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-10-26T07:56:49+07:00,,,,1,invalid
+2026-10-26T08:00:33+07:00,,,,1,invalid
+2026-10-26T08:00:33+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-10-26T08:00:36+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-10-26T08:00:41+07:00,,,,1,invalid
+2026-10-26T08:00:44+07:00,,,,1,invalid
+2026-10-26T08:00:44+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-10-26T08:00:49+07:00,,,,1,invalid
+2026-10-26T08:03:21+07:00,,,,1,invalid
+2026-10-26T08:03:21+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-26T08:03:26+07:00,,,,1,invalid
+2026-10-26T08:04:49+07:00,,,,1,invalid
+2026-10-26T08:04:49+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-10-26T08:04:53+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-26T08:04:58+07:00,,,,1,invalid
+2026-10-26T08:05:01+07:00,,,,1,invalid
+2026-10-26T08:05:01+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-26T08:05:06+07:00,,,,1,invalid
+2026-10-26T08:05:10+07:00,,,,1,invalid
+2026-10-26T08:05:10+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-26T08:05:15+07:00,,,,1,invalid
+2026-10-26T08:08:48+07:00,,,,1,invalid
+2026-10-26T08:08:48+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-26T08:08:53+07:00,,,,1,invalid
+2026-10-26T08:31:41+07:00,,,,1,invalid
+2026-10-26T08:31:41+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-10-26T08:31:46+07:00,,,,1,invalid
+2026-10-26T08:54:17+07:00,,,,1,invalid
+2026-10-26T08:54:17+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-10-26T08:54:22+07:00,,,,1,invalid
+2026-10-26T09:10:18+07:00,,,,1,invalid
+2026-10-26T09:10:18+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-26T09:10:23+07:00,,,,1,invalid
+2026-10-26T11:31:38+07:00,,,,1,invalid
+2026-10-26T11:31:38+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-26T11:31:43+07:00,,,,1,invalid
+2026-10-26T14:19:51+07:00,,,,1,invalid
+2026-10-26T14:19:51+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-10-26T14:19:56+07:00,,,,1,invalid
+2026-10-26T15:40:27+07:00,,,,1,invalid
+2026-10-26T15:40:27+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-26T15:40:32+07:00,,,,1,invalid
+2026-10-26T16:39:03+07:00,,,,1,invalid
+2026-10-26T16:39:03+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-26T16:39:08+07:00,,,,1,invalid
+2026-10-26T16:58:27+07:00,,,,,invalid
+2026-10-26T16:58:29+07:00,,,,,invalid
+2026-10-26T17:02:07+07:00,,,,1,invalid
+2026-10-26T17:02:07+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:02:12+07:00,,,,1,invalid
+2026-10-26T17:02:41+07:00,,,,1,invalid
+2026-10-26T17:02:41+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:02:46+07:00,,,,1,invalid
+2026-10-26T17:03:06+07:00,,,,1,invalid
+2026-10-26T17:03:06+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:03:11+07:00,,,,1,invalid
+2026-10-26T17:07:20+07:00,,,,1,invalid
+2026-10-26T17:07:20+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:07:25+07:00,,,,1,invalid
+2026-10-26T17:09:12+07:00,,,,1,invalid
+2026-10-26T17:09:12+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:09:17+07:00,,,,1,invalid
+2026-10-26T17:14:08+07:00,,,,,invalid
+2026-10-26T17:16:32+07:00,,,,1,invalid
+2026-10-26T17:16:32+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:16:33+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:16:38+07:00,,,,1,invalid
+2026-10-26T17:16:47+07:00,,,,1,invalid
+2026-10-26T17:16:47+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:16:52+07:00,,,,1,invalid
+2026-10-26T17:18:02+07:00,,,,1,invalid
+2026-10-26T17:18:02+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:18:03+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:18:08+07:00,,,,1,invalid
+2026-10-26T17:21:37+07:00,,,,1,invalid
+2026-10-26T17:21:37+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:21:42+07:00,,,,1,invalid
+2026-10-26T17:48:32+07:00,,,,1,invalid
+2026-10-26T17:48:32+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-26T17:48:37+07:00,,,,1,invalid
+2026-10-26T18:00:30+07:00,,,,1,invalid
+2026-10-26T18:00:30+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-26T18:00:35+07:00,,,,1,invalid
+2026-10-26T18:28:22+07:00,,,,1,invalid
+2026-10-26T18:28:22+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-10-26T18:28:27+07:00,,,,1,invalid
+2026-10-26T20:15:54+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-26T20:15:56+07:00,,,,1,invalid
+2026-10-26T20:15:56+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-26T20:16:01+07:00,,,,1,invalid
+2026-10-27T06:59:24+07:00,,,,1,invalid
+2026-10-27T06:59:24+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-10-27T06:59:29+07:00,,,,1,invalid
+2026-10-27T07:04:35+07:00,,,,1,invalid
+2026-10-27T07:04:35+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:04:40+07:00,,,,1,invalid
+2026-10-27T07:25:50+07:00,,,,1,invalid
+2026-10-27T07:25:50+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:25:55+07:00,,,,1,invalid
+2026-10-27T07:39:31+07:00,,,,1,invalid
+2026-10-27T07:39:31+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:39:36+07:00,,,,1,invalid
+2026-10-27T07:41:51+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:41:52+07:00,,,,1,invalid
+2026-10-27T07:41:57+07:00,,,,1,invalid
+2026-10-27T07:42:59+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:43:02+07:00,,,,1,invalid
+2026-10-27T07:43:02+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:43:05+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:43:10+07:00,,,,1,invalid
+2026-10-27T07:45:29+07:00,,,,1,invalid
+2026-10-27T07:45:29+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:45:34+07:00,,,,1,invalid
+2026-10-27T07:51:06+07:00,,,,1,invalid
+2026-10-27T07:51:06+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:51:11+07:00,,,,1,invalid
+2026-10-27T07:51:27+07:00,,,,1,invalid
+2026-10-27T07:51:27+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:51:30+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:51:35+07:00,,,,1,invalid
+2026-10-27T07:57:01+07:00,,,,1,invalid
+2026-10-27T07:57:01+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:57:06+07:00,,,,1,invalid
+2026-10-27T07:57:47+07:00,,,,1,invalid
+2026-10-27T07:57:47+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:57:52+07:00,,,,1,invalid
+2026-10-27T07:57:53+07:00,,,,1,invalid
+2026-10-27T07:57:53+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:57:58+07:00,,,,1,invalid
+2026-10-27T07:57:59+07:00,,,,1,invalid
+2026-10-27T07:57:59+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:58:04+07:00,,,,1,invalid
+2026-10-27T07:58:32+07:00,,,,1,invalid
+2026-10-27T07:58:32+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:58:35+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-10-27T07:58:40+07:00,,,,1,invalid
+2026-10-27T07:59:58+07:00,,,,1,invalid
+2026-10-27T07:59:58+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-10-27T08:00:03+07:00,,,,1,invalid
+2026-10-27T08:06:24+07:00,,,,1,invalid
+2026-10-27T08:06:24+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-10-27T08:06:29+07:00,,,,1,invalid
+2026-10-27T08:20:43+07:00,,,,1,invalid
+2026-10-27T08:20:43+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-27T08:20:48+07:00,,,,1,invalid
+2026-10-27T13:52:57+07:00,,,,1,invalid
+2026-10-27T13:52:57+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-10-27T13:53:02+07:00,,,,1,invalid
+2026-10-27T16:21:33+07:00,,,,1,invalid
+2026-10-27T16:21:33+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-27T16:21:38+07:00,,,,1,invalid
+2026-10-27T16:25:32+07:00,,,,1,invalid
+2026-10-27T16:25:32+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-27T16:25:37+07:00,,,,1,invalid
+2026-10-27T16:41:43+07:00,,,,1,invalid
+2026-10-27T16:41:43+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-10-27T16:41:44+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-10-27T16:41:49+07:00,,,,1,invalid
+2026-10-27T17:00:24+07:00,,,,1,invalid
+2026-10-27T17:00:24+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:00:25+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:00:30+07:00,,,,1,invalid
+2026-10-27T17:00:49+07:00,,,,1,invalid
+2026-10-27T17:00:49+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:00:54+07:00,,,,1,invalid
+2026-10-27T17:00:59+07:00,,,,1,invalid
+2026-10-27T17:00:59+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:01:04+07:00,,,,1,invalid
+2026-10-27T17:01:08+07:00,,,,1,invalid
+2026-10-27T17:01:08+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:01:13+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:01:18+07:00,,,,1,invalid
+2026-10-27T17:01:18+07:00,,,,1,invalid
+2026-10-27T17:01:18+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:01:23+07:00,,,,1,invalid
+2026-10-27T17:02:18+07:00,,,,1,invalid
+2026-10-27T17:02:18+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:02:23+07:00,,,,1,invalid
+2026-10-27T17:03:42+07:00,,,,1,invalid
+2026-10-27T17:03:42+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:03:44+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:03:46+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:03:51+07:00,,,,1,invalid
+2026-10-27T17:05:39+07:00,,,,1,invalid
+2026-10-27T17:05:39+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:05:44+07:00,,,,1,invalid
+2026-10-27T17:06:10+07:00,,,,1,invalid
+2026-10-27T17:06:10+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:06:15+07:00,,,,1,invalid
+2026-10-27T17:07:17+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:07:20+07:00,,,,1,invalid
+2026-10-27T17:07:20+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:07:25+07:00,,,,1,invalid
+2026-10-27T17:07:33+07:00,,,,1,invalid
+2026-10-27T17:07:33+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:07:38+07:00,,,,1,invalid
+2026-10-27T17:22:50+07:00,,,,1,invalid
+2026-10-27T17:22:50+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:22:55+07:00,,,,1,invalid
+2026-10-27T17:22:55+07:00,,,,1,invalid
+2026-10-27T17:22:55+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:23:00+07:00,,,,1,invalid
+2026-10-27T17:24:54+07:00,,,,1,invalid
+2026-10-27T17:24:54+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:24:59+07:00,,,,1,invalid
+2026-10-27T17:25:23+07:00,,,,1,invalid
+2026-10-27T17:25:23+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:25:28+07:00,,,,1,invalid
+2026-10-27T17:34:13+07:00,,,,1,invalid
+2026-10-27T17:34:13+07:00,11,Phạm Ái Ninh,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:34:18+07:00,,,,1,invalid
+2026-10-27T17:38:39+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-27T17:38:40+07:00,,,,1,invalid
+2026-10-27T17:38:45+07:00,,,,1,invalid
+2026-10-27T18:39:11+07:00,,,,1,invalid
+2026-10-27T18:39:11+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-10-27T18:39:16+07:00,,,,1,invalid
+2026-10-28T06:29:25+07:00,,,,1,invalid
+2026-10-28T06:29:25+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-28T06:29:30+07:00,,,,1,invalid
+2026-10-28T06:55:24+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-10-28T06:55:25+07:00,,,,1,invalid
+2026-10-28T06:55:30+07:00,,,,1,invalid
+2026-10-28T07:00:34+07:00,,,,1,invalid
+2026-10-28T07:00:34+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:00:39+07:00,,,,1,invalid
+2026-10-28T07:15:33+07:00,,,,1,invalid
+2026-10-28T07:15:33+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:15:34+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:15:39+07:00,,,,1,invalid
+2026-10-28T07:23:47+07:00,,,,1,invalid
+2026-10-28T07:23:47+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:23:52+07:00,,,,1,invalid
+2026-10-28T07:36:12+07:00,,,,1,invalid
+2026-10-28T07:36:12+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:36:17+07:00,,,,1,invalid
+2026-10-28T07:42:13+07:00,,,,1,invalid
+2026-10-28T07:42:13+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:42:18+07:00,,,,1,invalid
+2026-10-28T07:46:43+07:00,,,,1,invalid
+2026-10-28T07:46:43+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:46:44+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:46:49+07:00,,,,1,invalid
+2026-10-28T07:53:33+07:00,,,,1,invalid
+2026-10-28T07:53:33+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:53:38+07:00,,,,1,invalid
+2026-10-28T07:56:14+07:00,,,,1,invalid
+2026-10-28T07:56:14+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:56:16+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:56:21+07:00,,,,1,invalid
+2026-10-28T07:59:39+07:00,,,,1,invalid
+2026-10-28T07:59:39+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-28T07:59:44+07:00,,,,1,invalid
+2026-10-28T08:00:54+07:00,,,,1,invalid
+2026-10-28T08:00:54+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:00:58+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:01:03+07:00,,,,1,invalid
+2026-10-28T08:05:21+07:00,,,,1,invalid
+2026-10-28T08:05:21+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:05:26+07:00,,,,1,invalid
+2026-10-28T08:05:55+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:05:58+07:00,,,,1,invalid
+2026-10-28T08:05:58+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:06:03+07:00,,,,1,invalid
+2026-10-28T08:07:41+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:07:49+07:00,,,,1,invalid
+2026-10-28T08:07:49+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:07:54+07:00,,,,1,invalid
+2026-10-28T08:08:01+07:00,,,,1,invalid
+2026-10-28T08:08:01+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:08:05+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:08:10+07:00,,,,1,invalid
+2026-10-28T08:09:14+07:00,,,,1,invalid
+2026-10-28T08:09:14+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:09:19+07:00,,,,1,invalid
+2026-10-28T08:22:46+07:00,,,,1,invalid
+2026-10-28T08:22:46+07:00,11,Phạm Ái Ninh,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:22:51+07:00,,,,1,invalid
+2026-10-28T08:27:40+07:00,,,,1,invalid
+2026-10-28T08:27:40+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-10-28T08:27:45+07:00,,,,1,invalid
+2026-10-28T11:26:22+07:00,,,,1,invalid
+2026-10-28T11:26:22+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-28T11:26:27+07:00,,,,1,invalid
+2026-10-28T11:26:47+07:00,,,,1,invalid
+2026-10-28T11:26:47+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-28T11:26:52+07:00,,,,1,invalid
+2026-10-28T14:54:23+07:00,,,,1,invalid
+2026-10-28T14:54:23+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-10-28T14:54:24+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-10-28T14:54:29+07:00,,,,1,invalid
+2026-10-28T16:16:54+07:00,,,,1,invalid
+2026-10-28T16:16:54+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-10-28T16:16:59+07:00,,,,1,invalid
+2026-10-28T16:27:41+07:00,,,,1,invalid
+2026-10-28T16:27:41+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-28T16:27:46+07:00,,,,1,invalid
+2026-10-28T17:01:37+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:01:39+07:00,,,,1,invalid
+2026-10-28T17:01:39+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:01:42+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:01:47+07:00,,,,1,invalid
+2026-10-28T17:01:48+07:00,,,,1,invalid
+2026-10-28T17:01:48+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:01:50+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:01:55+07:00,,,,1,invalid
+2026-10-28T17:02:30+07:00,,,,1,invalid
+2026-10-28T17:02:30+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:02:35+07:00,,,,1,invalid
+2026-10-28T17:09:20+07:00,,,,1,invalid
+2026-10-28T17:09:20+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:09:25+07:00,,,,1,invalid
+2026-10-28T17:09:33+07:00,,,,1,invalid
+2026-10-28T17:09:33+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:09:38+07:00,,,,1,invalid
+2026-10-28T17:10:13+07:00,,,,1,invalid
+2026-10-28T17:10:13+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:10:18+07:00,,,,1,invalid
+2026-10-28T17:18:30+07:00,,,,1,invalid
+2026-10-28T17:18:30+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:18:35+07:00,,,,1,invalid
+2026-10-28T17:18:43+07:00,,,,1,invalid
+2026-10-28T17:18:43+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:18:48+07:00,,,,1,invalid
+2026-10-28T17:22:08+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:22:09+07:00,,,,1,invalid
+2026-10-28T17:22:09+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:22:14+07:00,,,,1,invalid
+2026-10-28T17:26:36+07:00,,,,1,invalid
+2026-10-28T17:26:36+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:26:41+07:00,,,,1,invalid
+2026-10-28T17:41:35+07:00,,,,1,invalid
+2026-10-28T17:41:35+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:41:40+07:00,,,,1,invalid
+2026-10-28T17:45:46+07:00,,,,1,invalid
+2026-10-28T17:45:46+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:45:51+07:00,,,,1,invalid
+2026-10-28T17:59:49+07:00,,,,1,invalid
+2026-10-28T17:59:49+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-10-28T17:59:54+07:00,,,,1,invalid
+2026-10-28T18:08:36+07:00,,,,1,invalid
+2026-10-28T18:08:36+07:00,11,Phạm Ái Ninh,1,1,faceOrFpOrCardOrPw
+2026-10-28T18:08:41+07:00,,,,1,invalid
+2026-10-28T18:44:40+07:00,,,,1,invalid
+2026-10-28T18:44:40+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-28T18:44:45+07:00,,,,1,invalid
+2026-10-28T19:20:56+07:00,,,,1,invalid
+2026-10-28T19:20:56+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-10-28T19:20:56+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-10-28T19:20:58+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-10-28T19:21:03+07:00,,,,1,invalid
+2026-10-29T07:09:06+07:00,,,,1,invalid
+2026-10-29T07:09:06+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:09:11+07:00,,,,1,invalid
+2026-10-29T07:14:11+07:00,,,,1,invalid
+2026-10-29T07:14:11+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:14:16+07:00,,,,1,invalid
+2026-10-29T07:16:06+07:00,,,,1,invalid
+2026-10-29T07:16:06+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:16:11+07:00,,,,1,invalid
+2026-10-29T07:16:14+07:00,,,,1,invalid
+2026-10-29T07:16:14+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:16:19+07:00,,,,1,invalid
+2026-10-29T07:32:11+07:00,,,,1,invalid
+2026-10-29T07:32:11+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:32:16+07:00,,,,1,invalid
+2026-10-29T07:37:47+07:00,,,,1,invalid
+2026-10-29T07:37:47+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:37:52+07:00,,,,1,invalid
+2026-10-29T07:43:49+07:00,,,,1,invalid
+2026-10-29T07:43:49+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:43:54+07:00,,,,1,invalid
+2026-10-29T07:47:18+07:00,,,,1,invalid
+2026-10-29T07:47:18+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:47:23+07:00,,,,1,invalid
+2026-10-29T07:51:19+07:00,,,,1,invalid
+2026-10-29T07:51:19+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:51:24+07:00,,,,1,invalid
+2026-10-29T07:54:03+07:00,,,,1,invalid
+2026-10-29T07:54:03+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:54:08+07:00,,,,1,invalid
+2026-10-29T07:56:22+07:00,,,,1,invalid
+2026-10-29T07:56:22+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:56:27+07:00,,,,1,invalid
+2026-10-29T07:57:26+07:00,,,,1,invalid
+2026-10-29T07:57:26+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:57:28+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:57:31+07:00,,,,1,invalid
+2026-10-29T07:57:31+07:00,,,,1,invalid
+2026-10-29T07:57:31+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-29T07:57:36+07:00,,,,1,invalid
+2026-10-29T08:04:05+07:00,,,,1,invalid
+2026-10-29T08:04:05+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-29T08:04:10+07:00,,,,1,invalid
+2026-10-29T08:13:55+07:00,,,,1,invalid
+2026-10-29T08:13:55+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-10-29T08:14:00+07:00,,,,1,invalid
+2026-10-29T08:17:15+07:00,,,,1,invalid
+2026-10-29T08:17:15+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-29T08:17:20+07:00,,,,1,invalid
+2026-10-29T08:23:11+07:00,,,,1,invalid
+2026-10-29T08:23:11+07:00,11,Phạm Ái Ninh,1,1,faceOrFpOrCardOrPw
+2026-10-29T08:23:16+07:00,,,,1,invalid
+2026-10-29T08:32:19+07:00,,,,1,invalid
+2026-10-29T08:32:19+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-10-29T08:32:24+07:00,,,,1,invalid
+2026-10-29T16:17:04+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-29T16:17:05+07:00,,,,1,invalid
+2026-10-29T16:17:10+07:00,,,,1,invalid
+2026-10-29T17:00:06+07:00,,,,1,invalid
+2026-10-29T17:00:06+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-29T17:00:09+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-10-29T17:00:14+07:00,,,,1,invalid
+2026-10-29T17:02:13+07:00,,,,1,invalid
+2026-10-29T17:02:13+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-10-29T17:02:18+07:00,,,,1,invalid
+2026-10-29T17:03:57+07:00,,,,1,invalid
+2026-10-29T17:03:57+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-10-29T17:04:02+07:00,,,,1,invalid
+2026-10-29T17:05:09+07:00,,,,1,invalid
+2026-10-29T17:05:09+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-29T17:05:10+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-29T17:05:15+07:00,,,,1,invalid
+2026-10-29T17:08:07+07:00,,,,1,invalid
+2026-10-29T17:08:07+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-29T17:08:12+07:00,,,,1,invalid
+2026-10-29T17:08:36+07:00,,,,1,invalid
+2026-10-29T17:08:36+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-29T17:08:41+07:00,,,,1,invalid
+2026-10-29T17:13:11+07:00,,,,1,invalid
+2026-10-29T17:13:11+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-10-29T17:13:16+07:00,,,,1,invalid
+2026-10-29T17:20:31+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-29T17:20:32+07:00,,,,1,invalid
+2026-10-29T17:20:37+07:00,,,,1,invalid
+2026-10-29T17:56:25+07:00,,,,1,invalid
+2026-10-29T17:56:25+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-10-29T17:56:30+07:00,,,,1,invalid
+2026-10-29T18:12:44+07:00,,,,1,invalid
+2026-10-29T18:12:44+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-29T18:12:49+07:00,,,,1,invalid
+2026-10-30T06:35:41+07:00,,,,1,invalid
+2026-10-30T06:35:41+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-30T06:35:46+07:00,,,,1,invalid
+2026-10-30T07:23:56+07:00,,,,1,invalid
+2026-10-30T07:23:56+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:24:01+07:00,,,,1,invalid
+2026-10-30T07:30:08+07:00,,,,1,invalid
+2026-10-30T07:30:08+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:30:13+07:00,,,,1,invalid
+2026-10-30T07:34:31+07:00,,,,1,invalid
+2026-10-30T07:34:31+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:34:36+07:00,,,,1,invalid
+2026-10-30T07:35:42+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:35:44+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:35:48+07:00,,,,1,invalid
+2026-10-30T07:35:48+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:35:53+07:00,,,,1,invalid
+2026-10-30T07:35:55+07:00,,,,1,invalid
+2026-10-30T07:35:55+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:36:00+07:00,,,,1,invalid
+2026-10-30T07:43:47+07:00,,,,1,invalid
+2026-10-30T07:43:47+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:43:52+07:00,,,,1,invalid
+2026-10-30T07:48:49+07:00,,,,1,invalid
+2026-10-30T07:48:49+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:48:54+07:00,,,,1,invalid
+2026-10-30T07:51:18+07:00,,,,1,invalid
+2026-10-30T07:51:18+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:51:23+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:51:28+07:00,,,,1,invalid
+2026-10-30T07:56:02+07:00,,,,1,invalid
+2026-10-30T07:56:02+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:56:06+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:56:12+07:00,,,,1,invalid
+2026-10-30T07:56:15+07:00,,,,1,invalid
+2026-10-30T07:56:15+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:56:20+07:00,,,,1,invalid
+2026-10-30T07:56:58+07:00,,,,1,invalid
+2026-10-30T07:56:58+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-30T07:57:03+07:00,,,,1,invalid
+2026-10-30T08:02:48+07:00,,,,1,invalid
+2026-10-30T08:02:48+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-10-30T08:02:50+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-10-30T08:02:52+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-30T08:02:57+07:00,,,,1,invalid
+2026-10-30T08:02:59+07:00,,,,1,invalid
+2026-10-30T08:02:59+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-30T08:03:04+07:00,,,,1,invalid
+2026-10-30T08:05:41+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-30T08:05:43+07:00,,,,1,invalid
+2026-10-30T08:05:43+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-30T08:05:48+07:00,,,,1,invalid
+2026-10-30T08:07:53+07:00,,,,1,invalid
+2026-10-30T08:07:53+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-10-30T08:07:58+07:00,,,,1,invalid
+2026-10-30T08:22:56+07:00,,,,1,invalid
+2026-10-30T08:22:56+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-30T08:23:01+07:00,,,,1,invalid
+2026-10-30T08:30:45+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-30T08:30:46+07:00,,,,1,invalid
+2026-10-30T08:30:51+07:00,,,,1,invalid
+2026-10-30T08:54:24+07:00,,,,1,invalid
+2026-10-30T08:54:24+07:00,11,Phạm Ái Ninh,1,1,faceOrFpOrCardOrPw
+2026-10-30T08:54:29+07:00,,,,1,invalid
+2026-10-30T16:03:26+07:00,,,,1,invalid
+2026-10-30T16:03:26+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-30T16:03:31+07:00,,,,1,invalid
+2026-10-30T16:24:44+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-30T16:24:45+07:00,,,,1,invalid
+2026-10-30T16:24:50+07:00,,,,1,invalid
+2026-10-30T16:58:29+07:00,,,,1,invalid
+2026-10-30T16:58:29+07:00,11,Phạm Ái Ninh,1,1,faceOrFpOrCardOrPw
+2026-10-30T16:58:34+07:00,,,,1,invalid
+2026-10-30T17:00:22+07:00,,,,1,invalid
+2026-10-30T17:00:22+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:00:26+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:00:31+07:00,,,,1,invalid
+2026-10-30T17:04:17+07:00,,,,1,invalid
+2026-10-30T17:04:17+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:04:22+07:00,,,,1,invalid
+2026-10-30T17:04:56+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:04:57+07:00,,,,1,invalid
+2026-10-30T17:04:57+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:04:58+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:05:03+07:00,,,,1,invalid
+2026-10-30T17:06:45+07:00,,,,1,invalid
+2026-10-30T17:06:45+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:06:50+07:00,,,,1,invalid
+2026-10-30T17:07:49+07:00,,,,1,invalid
+2026-10-30T17:07:49+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:07:54+07:00,,,,1,invalid
+2026-10-30T17:08:37+07:00,,,,1,invalid
+2026-10-30T17:08:37+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:08:40+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:08:45+07:00,,,,1,invalid
+2026-10-30T17:24:59+07:00,,,,1,invalid
+2026-10-30T17:24:59+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:25:04+07:00,,,,1,invalid
+2026-10-30T17:37:26+07:00,,,,1,invalid
+2026-10-30T17:37:26+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:37:31+07:00,,,,1,invalid
+2026-10-30T17:42:59+07:00,,,,1,invalid
+2026-10-30T17:42:59+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:43:04+07:00,,,,1,invalid
+2026-10-30T17:43:22+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:43:24+07:00,,,,1,invalid
+2026-10-30T17:43:24+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-10-30T17:43:29+07:00,,,,1,invalid
+2026-10-30T18:28:08+07:00,,,,1,invalid
+2026-10-30T18:28:08+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-10-30T18:28:13+07:00,,,,1,invalid
+2026-10-30T18:28:15+07:00,,,,1,invalid
+2026-10-30T18:28:15+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-10-30T18:28:20+07:00,,,,1,invalid
+2026-10-30T18:28:32+07:00,,,,1,invalid
+2026-10-30T18:28:32+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-10-30T18:28:37+07:00,,,,1,invalid
+2026-10-30T18:58:40+07:00,,,,1,invalid
+2026-10-30T18:58:40+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-10-30T18:58:45+07:00,,,,1,invalid
+2026-10-30T20:16:25+07:00,,,,1,invalid
+2026-10-30T20:16:25+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-10-30T20:16:26+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-10-30T20:16:31+07:00,,,,1,invalid
+2026-10-31T07:03:12+07:00,,,,1,invalid
+2026-10-31T07:03:12+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-10-31T07:03:17+07:00,,,,1,invalid
+2026-11-02T06:47:43+07:00,,,,1,invalid
+2026-11-02T06:47:43+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-02T06:47:48+07:00,,,,1,invalid
+2026-11-02T07:10:31+07:00,,,,1,invalid
+2026-11-02T07:10:31+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:10:36+07:00,,,,1,invalid
+2026-11-02T07:11:56+07:00,,,,1,invalid
+2026-11-02T07:11:56+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:12:01+07:00,,,,1,invalid
+2026-11-02T07:19:14+07:00,,,,1,invalid
+2026-11-02T07:19:14+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:19:19+07:00,,,,1,invalid
+2026-11-02T07:22:56+07:00,,,,1,invalid
+2026-11-02T07:22:56+07:00,21,Vương Văn Tiến Vinh,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:22:57+07:00,21,Vương Văn Tiến Vinh,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:23:02+07:00,,,,1,invalid
+2026-11-02T07:32:52+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:32:55+07:00,,,,1,invalid
+2026-11-02T07:32:55+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:33:00+07:00,,,,1,invalid
+2026-11-02T07:39:15+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:39:15+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:39:16+07:00,,,,1,invalid
+2026-11-02T07:39:21+07:00,,,,1,invalid
+2026-11-02T07:42:48+07:00,,,,1,invalid
+2026-11-02T07:42:48+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:42:53+07:00,,,,1,invalid
+2026-11-02T07:44:36+07:00,,,,1,invalid
+2026-11-02T07:44:36+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:44:41+07:00,,,,1,invalid
+2026-11-02T07:47:25+07:00,,,,1,invalid
+2026-11-02T07:47:25+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:47:30+07:00,,,,1,invalid
+2026-11-02T07:48:10+07:00,,,,1,invalid
+2026-11-02T07:48:10+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:48:14+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:48:19+07:00,,,,1,invalid
+2026-11-02T07:54:43+07:00,,,,1,invalid
+2026-11-02T07:54:43+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:54:47+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:54:52+07:00,,,,1,invalid
+2026-11-02T07:59:55+07:00,,,,1,invalid
+2026-11-02T07:59:55+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-02T07:59:57+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:00:02+07:00,,,,1,invalid
+2026-11-02T08:00:18+07:00,,,,1,invalid
+2026-11-02T08:00:18+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:00:23+07:00,,,,1,invalid
+2026-11-02T08:01:33+07:00,,,,1,invalid
+2026-11-02T08:01:33+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:01:38+07:00,,,,1,invalid
+2026-11-02T08:01:39+07:00,,,,1,invalid
+2026-11-02T08:01:39+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:01:43+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:01:48+07:00,,,,1,invalid
+2026-11-02T08:02:24+07:00,,,,1,invalid
+2026-11-02T08:02:24+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:02:29+07:00,,,,1,invalid
+2026-11-02T08:02:31+07:00,,,,1,invalid
+2026-11-02T08:02:31+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:02:36+07:00,,,,1,invalid
+2026-11-02T08:04:55+07:00,,,,1,invalid
+2026-11-02T08:04:55+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:04:57+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:05:02+07:00,,,,1,invalid
+2026-11-02T08:07:54+07:00,,,,1,invalid
+2026-11-02T08:07:54+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:07:59+07:00,,,,1,invalid
+2026-11-02T08:08:49+07:00,,,,1,invalid
+2026-11-02T08:08:49+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:08:54+07:00,,,,1,invalid
+2026-11-02T08:12:37+07:00,,,,1,invalid
+2026-11-02T08:12:37+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:12:42+07:00,,,,1,invalid
+2026-11-02T08:17:48+07:00,,,,1,invalid
+2026-11-02T08:17:48+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-02T08:17:53+07:00,,,,1,invalid
+2026-11-02T10:59:41+07:00,,,,1,invalid
+2026-11-02T10:59:41+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-02T10:59:46+07:00,,,,1,invalid
+2026-11-02T10:59:58+07:00,,,,1,invalid
+2026-11-02T10:59:58+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-02T11:00:03+07:00,,,,1,invalid
+2026-11-02T11:04:17+07:00,,,,1,invalid
+2026-11-02T11:04:17+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-02T11:04:22+07:00,,,,1,invalid
+2026-11-02T12:53:16+07:00,,,,1,invalid
+2026-11-02T12:53:16+07:00,11,Phạm Ái Ninh,1,1,faceOrFpOrCardOrPw
+2026-11-02T12:53:21+07:00,,,,1,invalid
+2026-11-02T13:56:09+07:00,,,,1,invalid
+2026-11-02T13:56:09+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-02T13:56:14+07:00,,,,1,invalid
+2026-11-02T15:47:32+07:00,,,,1,invalid
+2026-11-02T15:47:32+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-02T15:47:37+07:00,,,,1,invalid
+2026-11-02T16:04:59+07:00,,,,1,invalid
+2026-11-02T16:04:59+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-02T16:05:04+07:00,,,,1,invalid
+2026-11-02T16:12:44+07:00,,,,1,invalid
+2026-11-02T16:12:44+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-02T16:12:49+07:00,,,,1,invalid
+2026-11-02T16:37:21+07:00,,,,1,invalid
+2026-11-02T16:37:21+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-02T16:37:26+07:00,,,,1,invalid
+2026-11-02T16:49:25+07:00,,,,1,invalid
+2026-11-02T16:49:25+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-02T16:49:30+07:00,,,,1,invalid
+2026-11-02T17:03:11+07:00,,,,1,invalid
+2026-11-02T17:03:11+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:03:16+07:00,,,,1,invalid
+2026-11-02T17:03:59+07:00,,,,1,invalid
+2026-11-02T17:03:59+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:04:04+07:00,,,,1,invalid
+2026-11-02T17:04:15+07:00,,,,1,invalid
+2026-11-02T17:04:15+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:04:20+07:00,,,,1,invalid
+2026-11-02T17:07:12+07:00,,,,1,invalid
+2026-11-02T17:07:12+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:07:17+07:00,,,,1,invalid
+2026-11-02T17:07:23+07:00,,,,1,invalid
+2026-11-02T17:07:23+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:07:28+07:00,,,,1,invalid
+2026-11-02T17:07:30+07:00,,,,1,invalid
+2026-11-02T17:07:30+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:07:35+07:00,,,,1,invalid
+2026-11-02T17:08:16+07:00,,,,1,invalid
+2026-11-02T17:08:16+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:08:21+07:00,,,,1,invalid
+2026-11-02T17:09:22+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:09:25+07:00,,,,1,invalid
+2026-11-02T17:09:25+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:09:30+07:00,,,,1,invalid
+2026-11-02T17:12:59+07:00,,,,1,invalid
+2026-11-02T17:12:59+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:13:04+07:00,,,,1,invalid
+2026-11-02T17:19:02+07:00,,,,1,invalid
+2026-11-02T17:19:02+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:19:07+07:00,,,,1,invalid
+2026-11-02T17:22:41+07:00,,,,1,invalid
+2026-11-02T17:22:41+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:22:42+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:22:47+07:00,,,,1,invalid
+2026-11-02T17:25:30+07:00,,,,1,invalid
+2026-11-02T17:25:30+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:25:35+07:00,,,,1,invalid
+2026-11-02T17:26:32+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:26:33+07:00,,,,1,invalid
+2026-11-02T17:26:33+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:26:38+07:00,,,,1,invalid
+2026-11-02T17:40:08+07:00,,,,1,invalid
+2026-11-02T17:40:08+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:40:09+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:40:13+07:00,,,,1,invalid
+2026-11-02T17:47:15+07:00,,,,1,invalid
+2026-11-02T17:47:15+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:47:20+07:00,,,,1,invalid
+2026-11-02T17:47:30+07:00,,,,1,invalid
+2026-11-02T17:47:30+07:00,21,Vương Văn Tiến Vinh,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:47:30+07:00,21,Vương Văn Tiến Vinh,1,1,faceOrFpOrCardOrPw
+2026-11-02T17:47:35+07:00,,,,1,invalid
+2026-11-02T18:16:02+07:00,,,,1,invalid
+2026-11-02T18:16:02+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-02T18:16:04+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-02T18:16:09+07:00,,,,1,invalid
+2026-11-02T19:23:23+07:00,,,,1,invalid
+2026-11-02T19:23:23+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-02T19:23:28+07:00,,,,1,invalid
+2026-11-03T06:29:24+07:00,,,,1,invalid
+2026-11-03T06:29:24+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-03T06:29:29+07:00,,,,1,invalid
+2026-11-03T07:12:07+07:00,,,,1,invalid
+2026-11-03T07:12:07+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:12:12+07:00,,,,1,invalid
+2026-11-03T07:30:38+07:00,,,,1,invalid
+2026-11-03T07:30:38+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:30:43+07:00,,,,1,invalid
+2026-11-03T07:34:34+07:00,,,,1,invalid
+2026-11-03T07:34:34+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:34:39+07:00,,,,1,invalid
+2026-11-03T07:36:35+07:00,,,,1,invalid
+2026-11-03T07:36:35+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:36:35+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:36:41+07:00,,,,1,invalid
+2026-11-03T07:38:24+07:00,,,,1,invalid
+2026-11-03T07:38:24+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:38:29+07:00,,,,1,invalid
+2026-11-03T07:38:31+07:00,,,,1,invalid
+2026-11-03T07:38:31+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:38:36+07:00,,,,1,invalid
+2026-11-03T07:38:55+07:00,,,,1,invalid
+2026-11-03T07:38:55+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:39:00+07:00,,,,1,invalid
+2026-11-03T07:40:10+07:00,,,,1,invalid
+2026-11-03T07:40:10+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:40:15+07:00,,,,1,invalid
+2026-11-03T07:44:47+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:44:50+07:00,,,,1,invalid
+2026-11-03T07:44:50+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:44:53+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:44:58+07:00,,,,1,invalid
+2026-11-03T07:45:09+07:00,,,,1,invalid
+2026-11-03T07:45:09+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:45:14+07:00,,,,1,invalid
+2026-11-03T07:45:36+07:00,,,,1,invalid
+2026-11-03T07:45:36+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:45:41+07:00,,,,1,invalid
+2026-11-03T07:56:03+07:00,,,,1,invalid
+2026-11-03T07:56:03+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:56:08+07:00,,,,1,invalid
+2026-11-03T07:58:24+07:00,,,,1,invalid
+2026-11-03T07:58:24+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-03T07:58:29+07:00,,,,1,invalid
+2026-11-03T08:00:00+07:00,,,,1,invalid
+2026-11-03T08:00:00+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-03T08:00:05+07:00,,,,1,invalid
+2026-11-03T08:00:06+07:00,,,,1,invalid
+2026-11-03T08:00:06+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-03T08:00:11+07:00,,,,1,invalid
+2026-11-03T08:07:08+07:00,,,,1,invalid
+2026-11-03T08:07:08+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-03T08:07:13+07:00,,,,1,invalid
+2026-11-03T08:46:03+07:00,,,,1,invalid
+2026-11-03T08:46:03+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-03T08:46:08+07:00,,,,1,invalid
+2026-11-03T13:12:59+07:00,,,,1,invalid
+2026-11-03T13:12:59+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-03T13:13:04+07:00,,,,1,invalid
+2026-11-03T16:22:50+07:00,,,,1,invalid
+2026-11-03T16:22:50+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-03T16:22:55+07:00,,,,1,invalid
+2026-11-03T16:22:57+07:00,,,,1,invalid
+2026-11-03T16:22:57+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-03T16:23:02+07:00,,,,1,invalid
+2026-11-03T16:47:28+07:00,,,,1,invalid
+2026-11-03T16:47:28+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-03T16:47:33+07:00,,,,1,invalid
+2026-11-03T16:53:06+07:00,,,,1,invalid
+2026-11-03T16:53:06+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-03T16:53:11+07:00,,,,1,invalid
+2026-11-03T17:00:17+07:00,,,,1,invalid
+2026-11-03T17:00:17+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:00:22+07:00,,,,1,invalid
+2026-11-03T17:02:53+07:00,,,,1,invalid
+2026-11-03T17:02:53+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:02:58+07:00,,,,1,invalid
+2026-11-03T17:03:04+07:00,,,,1,invalid
+2026-11-03T17:03:04+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:03:09+07:00,,,,1,invalid
+2026-11-03T17:03:17+07:00,,,,1,invalid
+2026-11-03T17:03:17+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:03:22+07:00,,,,1,invalid
+2026-11-03T17:04:41+07:00,,,,1,invalid
+2026-11-03T17:04:41+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:04:46+07:00,,,,1,invalid
+2026-11-03T17:07:17+07:00,,,,1,invalid
+2026-11-03T17:07:17+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:07:22+07:00,,,,1,invalid
+2026-11-03T17:08:00+07:00,,,,1,invalid
+2026-11-03T17:08:00+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:08:03+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:08:08+07:00,,,,1,invalid
+2026-11-03T17:08:42+07:00,,,,1,invalid
+2026-11-03T17:08:42+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:08:47+07:00,,,,1,invalid
+2026-11-03T17:17:14+07:00,,,,1,invalid
+2026-11-03T17:17:14+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:17:19+07:00,,,,1,invalid
+2026-11-03T17:22:46+07:00,,,,1,invalid
+2026-11-03T17:22:46+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:22:51+07:00,,,,1,invalid
+2026-11-03T17:28:29+07:00,,,,1,invalid
+2026-11-03T17:28:29+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:28:34+07:00,,,,1,invalid
+2026-11-03T17:29:46+07:00,,,,1,invalid
+2026-11-03T17:29:46+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:29:49+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:29:53+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:29:56+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:30:01+07:00,,,,1,invalid
+2026-11-03T17:33:21+07:00,,,,1,invalid
+2026-11-03T17:33:21+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:33:26+07:00,,,,1,invalid
+2026-11-03T17:35:17+07:00,,,,1,invalid
+2026-11-03T17:35:17+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:35:20+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:35:25+07:00,,,,1,invalid
+2026-11-03T17:39:15+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:39:19+07:00,,,,1,invalid
+2026-11-03T17:39:19+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-03T17:39:24+07:00,,,,1,invalid
+2026-11-03T18:40:41+07:00,,,,1,invalid
+2026-11-03T18:40:41+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-03T18:40:46+07:00,,,,1,invalid
+2026-11-03T18:56:02+07:00,,,,1,invalid
+2026-11-03T18:56:02+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-03T18:56:07+07:00,,,,1,invalid
+2026-11-04T06:17:25+07:00,,,,1,invalid
+2026-11-04T06:17:25+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-04T06:17:30+07:00,,,,1,invalid
+2026-11-04T07:04:37+07:00,,,,1,invalid
+2026-11-04T07:04:37+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:04:42+07:00,,,,1,invalid
+2026-11-04T07:13:14+07:00,,,,1,invalid
+2026-11-04T07:13:14+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:13:17+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:13:22+07:00,,,,1,invalid
+2026-11-04T07:21:50+07:00,,,,1,invalid
+2026-11-04T07:21:50+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:21:55+07:00,,,,1,invalid
+2026-11-04T07:22:01+07:00,,,,1,invalid
+2026-11-04T07:22:01+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:22:06+07:00,,,,1,invalid
+2026-11-04T07:29:31+07:00,,,,1,invalid
+2026-11-04T07:29:31+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:29:36+07:00,,,,1,invalid
+2026-11-04T07:34:30+07:00,,,,1,invalid
+2026-11-04T07:34:30+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:34:35+07:00,,,,1,invalid
+2026-11-04T07:34:39+07:00,,,,1,invalid
+2026-11-04T07:34:39+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:34:44+07:00,,,,1,invalid
+2026-11-04T07:37:40+07:00,,,,1,invalid
+2026-11-04T07:37:40+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:37:45+07:00,,,,1,invalid
+2026-11-04T07:42:56+07:00,,,,1,invalid
+2026-11-04T07:42:56+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:43:01+07:00,,,,1,invalid
+2026-11-04T07:53:29+07:00,,,,1,invalid
+2026-11-04T07:53:29+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:53:34+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:53:39+07:00,,,,1,invalid
+2026-11-04T07:56:55+07:00,,,,1,invalid
+2026-11-04T07:56:55+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:57:00+07:00,,,,1,invalid
+2026-11-04T07:58:33+07:00,,,,1,invalid
+2026-11-04T07:58:33+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:58:33+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:58:38+07:00,,,,1,invalid
+2026-11-04T07:58:39+07:00,,,,1,invalid
+2026-11-04T07:58:39+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-04T07:58:44+07:00,,,,1,invalid
+2026-11-04T08:00:26+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-04T08:00:29+07:00,,,,1,invalid
+2026-11-04T08:00:29+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-04T08:00:34+07:00,,,,1,invalid
+2026-11-04T08:01:36+07:00,,,,1,invalid
+2026-11-04T08:01:36+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-04T08:01:41+07:00,,,,1,invalid
+2026-11-04T08:04:05+07:00,,,,1,invalid
+2026-11-04T08:04:05+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-04T08:04:10+07:00,,,,1,invalid
+2026-11-04T08:05:17+07:00,,,,1,invalid
+2026-11-04T08:05:17+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-04T08:05:22+07:00,,,,1,invalid
+2026-11-04T08:09:33+07:00,,,,1,invalid
+2026-11-04T08:09:33+07:00,11,Phạm Ái Ninh,1,1,faceOrFpOrCardOrPw
+2026-11-04T08:09:36+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-11-04T08:09:41+07:00,,,,1,invalid
+2026-11-04T08:09:41+07:00,,,,1,invalid
+2026-11-04T08:09:41+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-04T08:09:46+07:00,,,,1,invalid
+2026-11-04T08:17:26+07:00,,,,1,invalid
+2026-11-04T08:17:26+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-04T08:17:31+07:00,,,,1,invalid
+2026-11-04T08:25:44+07:00,,,,1,invalid
+2026-11-04T08:25:44+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-04T08:25:46+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-04T08:25:51+07:00,,,,1,invalid
+2026-11-04T09:36:06+07:00,,,,1,invalid
+2026-11-04T09:36:06+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-04T09:36:07+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-04T09:36:12+07:00,,,,1,invalid
+2026-11-04T10:41:13+07:00,,,,1,invalid
+2026-11-04T10:41:13+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-11-04T10:41:18+07:00,,,,1,invalid
+2026-11-04T15:47:17+07:00,,,,1,invalid
+2026-11-04T15:47:17+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-04T15:47:22+07:00,,,,1,invalid
+2026-11-04T16:23:54+07:00,,,,1,invalid
+2026-11-04T16:23:54+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-04T16:23:59+07:00,,,,1,invalid
+2026-11-04T16:52:54+07:00,,,,1,invalid
+2026-11-04T16:52:54+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-04T16:52:59+07:00,,,,1,invalid
+2026-11-04T16:58:02+07:00,,,,1,invalid
+2026-11-04T16:58:02+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-04T16:58:03+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-04T16:58:09+07:00,,,,1,invalid
+2026-11-04T17:01:29+07:00,,,,1,invalid
+2026-11-04T17:01:29+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:01:34+07:00,,,,1,invalid
+2026-11-04T17:02:09+07:00,,,,1,invalid
+2026-11-04T17:02:09+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:02:13+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:02:18+07:00,,,,1,invalid
+2026-11-04T17:03:35+07:00,,,,1,invalid
+2026-11-04T17:03:35+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:03:40+07:00,,,,1,invalid
+2026-11-04T17:06:11+07:00,,,,1,invalid
+2026-11-04T17:06:11+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:06:16+07:00,,,,1,invalid
+2026-11-04T17:09:31+07:00,,,,1,invalid
+2026-11-04T17:09:31+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:09:36+07:00,,,,1,invalid
+2026-11-04T17:10:53+07:00,,,,1,invalid
+2026-11-04T17:10:53+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:10:58+07:00,,,,1,invalid
+2026-11-04T17:20:02+07:00,,,,1,invalid
+2026-11-04T17:20:02+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:20:07+07:00,,,,1,invalid
+2026-11-04T17:20:46+07:00,,,,1,invalid
+2026-11-04T17:20:46+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:20:51+07:00,,,,1,invalid
+2026-11-04T17:22:54+07:00,,,,1,invalid
+2026-11-04T17:22:54+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:22:59+07:00,,,,1,invalid
+2026-11-04T17:43:38+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:43:44+07:00,,,,1,invalid
+2026-11-04T17:43:44+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-04T17:43:49+07:00,,,,1,invalid
+2026-11-04T18:16:23+07:00,,,,1,invalid
+2026-11-04T18:16:23+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-04T18:16:28+07:00,,,,1,invalid
+2026-11-04T18:19:19+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-04T18:19:20+07:00,,,,1,invalid
+2026-11-04T18:19:25+07:00,,,,1,invalid
+2026-11-04T18:38:10+07:00,,,,1,invalid
+2026-11-04T18:38:10+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-04T18:38:14+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-04T18:38:19+07:00,,,,1,invalid
+2026-11-04T18:51:51+07:00,,,,1,invalid
+2026-11-04T18:51:51+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-04T18:51:56+07:00,,,,1,invalid
+2026-11-04T18:52:41+07:00,,,,1,invalid
+2026-11-04T18:52:41+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-04T18:52:46+07:00,,,,1,invalid
+2026-11-05T06:25:03+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-05T06:25:04+07:00,,,,1,invalid
+2026-11-05T06:25:09+07:00,,,,1,invalid
+2026-11-05T07:17:26+07:00,,,,1,invalid
+2026-11-05T07:17:26+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:17:31+07:00,,,,1,invalid
+2026-11-05T07:27:36+07:00,,,,1,invalid
+2026-11-05T07:27:36+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:27:41+07:00,,,,1,invalid
+2026-11-05T07:36:45+07:00,,,,1,invalid
+2026-11-05T07:36:45+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:36:50+07:00,,,,1,invalid
+2026-11-05T07:38:12+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:38:19+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:38:20+07:00,,,,1,invalid
+2026-11-05T07:38:23+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:38:28+07:00,,,,1,invalid
+2026-11-05T07:41:15+07:00,,,,1,invalid
+2026-11-05T07:41:15+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:41:20+07:00,,,,1,invalid
+2026-11-05T07:42:07+07:00,,,,1,invalid
+2026-11-05T07:42:07+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:42:13+07:00,,,,1,invalid
+2026-11-05T07:43:56+07:00,,,,1,invalid
+2026-11-05T07:43:56+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:43:57+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:44:02+07:00,,,,1,invalid
+2026-11-05T07:44:17+07:00,,,,1,invalid
+2026-11-05T07:44:17+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:44:22+07:00,,,,1,invalid
+2026-11-05T07:44:33+07:00,,,,1,invalid
+2026-11-05T07:44:33+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:44:38+07:00,,,,1,invalid
+2026-11-05T07:51:06+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:51:07+07:00,,,,1,invalid
+2026-11-05T07:51:11+07:00,,,,1,invalid
+2026-11-05T07:52:47+07:00,,,,1,invalid
+2026-11-05T07:52:47+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:52:50+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:52:55+07:00,,,,1,invalid
+2026-11-05T07:54:24+07:00,,,,1,invalid
+2026-11-05T07:54:24+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:54:28+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:54:33+07:00,,,,1,invalid
+2026-11-05T07:55:15+07:00,,,,1,invalid
+2026-11-05T07:55:15+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:55:20+07:00,,,,1,invalid
+2026-11-05T07:55:39+07:00,,,,1,invalid
+2026-11-05T07:55:39+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:55:44+07:00,,,,1,invalid
+2026-11-05T07:55:44+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:55:45+07:00,,,,1,invalid
+2026-11-05T07:55:47+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:55:52+07:00,,,,1,invalid
+2026-11-05T07:59:09+07:00,,,,1,invalid
+2026-11-05T07:59:09+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:59:13+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-05T07:59:19+07:00,,,,1,invalid
+2026-11-05T08:00:42+07:00,,,,1,invalid
+2026-11-05T08:00:42+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-05T08:00:45+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-05T08:00:50+07:00,,,,1,invalid
+2026-11-05T08:02:10+07:00,,,,1,invalid
+2026-11-05T08:02:10+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-05T08:02:13+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-05T08:02:18+07:00,,,,1,invalid
+2026-11-05T08:06:16+07:00,,,,1,invalid
+2026-11-05T08:06:16+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-05T08:06:21+07:00,,,,1,invalid
+2026-11-05T08:11:15+07:00,,,,1,invalid
+2026-11-05T08:11:15+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-05T08:11:20+07:00,,,,1,invalid
+2026-11-05T08:11:53+07:00,,,,1,invalid
+2026-11-05T08:11:53+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-05T08:11:58+07:00,,,,1,invalid
+2026-11-05T09:30:51+07:00,,,,1,invalid
+2026-11-05T09:30:51+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-05T09:30:56+07:00,,,,1,invalid
+2026-11-05T15:21:07+07:00,,,,1,invalid
+2026-11-05T15:21:07+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-05T15:21:12+07:00,,,,1,invalid
+2026-11-05T16:19:30+07:00,,,,1,invalid
+2026-11-05T16:19:30+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-05T16:19:35+07:00,,,,1,invalid
+2026-11-05T16:44:56+07:00,,,,1,invalid
+2026-11-05T16:44:56+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-05T16:45:01+07:00,,,,1,invalid
+2026-11-05T17:01:18+07:00,,,,1,invalid
+2026-11-05T17:01:18+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:01:23+07:00,,,,1,invalid
+2026-11-05T17:01:30+07:00,,,,1,invalid
+2026-11-05T17:01:30+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:01:35+07:00,,,,1,invalid
+2026-11-05T17:02:11+07:00,,,,1,invalid
+2026-11-05T17:02:11+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:02:16+07:00,,,,1,invalid
+2026-11-05T17:02:49+07:00,,,,1,invalid
+2026-11-05T17:02:49+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:02:54+07:00,,,,1,invalid
+2026-11-05T17:05:26+07:00,,,,1,invalid
+2026-11-05T17:05:26+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:05:31+07:00,,,,1,invalid
+2026-11-05T17:08:41+07:00,,,,1,invalid
+2026-11-05T17:08:41+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:08:46+07:00,,,,1,invalid
+2026-11-05T17:08:54+07:00,,,,1,invalid
+2026-11-05T17:08:54+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:08:58+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:09:03+07:00,,,,1,invalid
+2026-11-05T17:20:13+07:00,,,,1,invalid
+2026-11-05T17:20:13+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:20:18+07:00,,,,1,invalid
+2026-11-05T17:23:50+07:00,,,,1,invalid
+2026-11-05T17:23:50+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:23:55+07:00,,,,1,invalid
+2026-11-05T17:30:29+07:00,,,,1,invalid
+2026-11-05T17:30:29+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:30:34+07:00,,,,1,invalid
+2026-11-05T17:37:08+07:00,,,,1,invalid
+2026-11-05T17:37:08+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:37:13+07:00,,,,1,invalid
+2026-11-05T17:38:47+07:00,,,,1,invalid
+2026-11-05T17:38:47+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-05T17:38:52+07:00,,,,1,invalid
+2026-11-05T18:03:38+07:00,,,,1,invalid
+2026-11-05T18:03:38+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-05T18:03:43+07:00,,,,1,invalid
+2026-11-05T18:03:53+07:00,,,,1,invalid
+2026-11-05T18:03:53+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-05T18:03:57+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-05T18:04:02+07:00,,,,1,invalid
+2026-11-05T18:33:32+07:00,,,,1,invalid
+2026-11-05T18:33:32+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-05T18:33:37+07:00,,,,1,invalid
+2026-11-05T18:42:47+07:00,,,,1,invalid
+2026-11-05T18:42:47+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-05T18:42:52+07:00,,,,1,invalid
+2026-11-05T18:45:18+07:00,,,,1,invalid
+2026-11-05T18:45:18+07:00,21,Vương Văn Tiến Vinh,1,1,faceOrFpOrCardOrPw
+2026-11-05T18:45:18+07:00,21,Vương Văn Tiến Vinh,1,1,faceOrFpOrCardOrPw
+2026-11-05T18:45:23+07:00,,,,1,invalid
+2026-11-05T18:46:16+07:00,,,,1,invalid
+2026-11-05T18:46:16+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-05T18:46:21+07:00,,,,1,invalid
+2026-11-05T19:38:29+07:00,,,,1,invalid
+2026-11-05T19:38:29+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-05T19:38:34+07:00,,,,1,invalid
+2026-11-06T06:19:38+07:00,,,,1,invalid
+2026-11-06T06:19:38+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-06T06:19:39+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-06T06:19:44+07:00,,,,1,invalid
+2026-11-06T06:47:19+07:00,,,,1,invalid
+2026-11-06T06:47:19+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-06T06:47:24+07:00,,,,1,invalid
+2026-11-06T06:51:22+07:00,,,,1,invalid
+2026-11-06T06:51:22+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-06T06:51:27+07:00,,,,1,invalid
+2026-11-06T06:53:11+07:00,,,,1,invalid
+2026-11-06T06:53:11+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-06T06:53:16+07:00,,,,1,invalid
+2026-11-06T06:53:49+07:00,,,,1,invalid
+2026-11-06T06:53:49+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-06T06:53:54+07:00,,,,1,invalid
+2026-11-06T06:55:30+07:00,,,,1,invalid
+2026-11-06T06:55:30+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-06T06:55:35+07:00,,,,1,invalid
+2026-11-06T07:22:45+07:00,,,,1,invalid
+2026-11-06T07:22:45+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:22:50+07:00,,,,1,invalid
+2026-11-06T07:37:49+07:00,,,,1,invalid
+2026-11-06T07:37:49+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:37:54+07:00,,,,1,invalid
+2026-11-06T07:39:30+07:00,,,,1,invalid
+2026-11-06T07:39:30+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:39:35+07:00,,,,1,invalid
+2026-11-06T07:44:40+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:44:41+07:00,,,,1,invalid
+2026-11-06T07:44:41+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:44:45+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:44:50+07:00,,,,1,invalid
+2026-11-06T07:49:32+07:00,,,,1,invalid
+2026-11-06T07:49:32+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:49:37+07:00,,,,1,invalid
+2026-11-06T07:50:37+07:00,,,,1,invalid
+2026-11-06T07:50:37+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:50:42+07:00,,,,1,invalid
+2026-11-06T07:53:51+07:00,,,,1,invalid
+2026-11-06T07:53:51+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:53:52+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:53:57+07:00,,,,1,invalid
+2026-11-06T07:59:10+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:59:14+07:00,,,,1,invalid
+2026-11-06T07:59:14+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:59:15+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:59:18+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:59:19+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:59:22+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-06T07:59:27+07:00,,,,1,invalid
+2026-11-06T08:02:35+07:00,,,,1,invalid
+2026-11-06T08:02:35+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-06T08:02:40+07:00,,,,1,invalid
+2026-11-06T08:09:53+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-06T08:09:54+07:00,,,,1,invalid
+2026-11-06T08:09:56+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-06T08:09:59+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-06T08:10:04+07:00,,,,1,invalid
+2026-11-06T08:13:18+07:00,,,,1,invalid
+2026-11-06T08:13:18+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-11-06T08:13:23+07:00,,,,1,invalid
+2026-11-06T08:14:18+07:00,,,,1,invalid
+2026-11-06T08:14:18+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-06T08:14:23+07:00,,,,1,invalid
+2026-11-06T08:19:44+07:00,,,,1,invalid
+2026-11-06T08:19:44+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-06T08:19:49+07:00,,,,1,invalid
+2026-11-06T08:56:23+07:00,,,,1,invalid
+2026-11-06T08:56:23+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-06T08:56:28+07:00,,,,1,invalid
+2026-11-06T15:49:06+07:00,,,,1,invalid
+2026-11-06T15:49:06+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-06T15:49:11+07:00,,,,1,invalid
+2026-11-06T16:19:59+07:00,,,,1,invalid
+2026-11-06T16:19:59+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-06T16:20:04+07:00,,,,1,invalid
+2026-11-06T17:02:08+07:00,,,,1,invalid
+2026-11-06T17:02:08+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:02:10+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:02:15+07:00,,,,1,invalid
+2026-11-06T17:02:50+07:00,,,,1,invalid
+2026-11-06T17:02:50+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:02:55+07:00,,,,1,invalid
+2026-11-06T17:12:48+07:00,,,,1,invalid
+2026-11-06T17:12:48+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:12:50+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:12:55+07:00,,,,1,invalid
+2026-11-06T17:13:44+07:00,,,,1,invalid
+2026-11-06T17:13:44+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:13:49+07:00,,,,1,invalid
+2026-11-06T17:15:47+07:00,,,,1,invalid
+2026-11-06T17:15:47+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:15:51+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:15:56+07:00,,,,1,invalid
+2026-11-06T17:17:31+07:00,,,,1,invalid
+2026-11-06T17:17:31+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:17:36+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:17:41+07:00,,,,1,invalid
+2026-11-06T17:17:56+07:00,,,,1,invalid
+2026-11-06T17:17:56+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:18:01+07:00,,,,1,invalid
+2026-11-06T17:35:14+07:00,,,,1,invalid
+2026-11-06T17:35:14+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:35:19+07:00,,,,1,invalid
+2026-11-06T17:35:19+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:35:21+07:00,,,,1,invalid
+2026-11-06T17:35:21+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:35:24+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:35:29+07:00,,,,1,invalid
+2026-11-06T17:41:44+07:00,,,,1,invalid
+2026-11-06T17:41:44+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-06T17:41:49+07:00,,,,1,invalid
+2026-11-06T18:00:46+07:00,,,,1,invalid
+2026-11-06T18:00:46+07:00,21,Vương Văn Tiến Vinh,1,1,faceOrFpOrCardOrPw
+2026-11-06T18:00:46+07:00,21,Vương Văn Tiến Vinh,1,1,faceOrFpOrCardOrPw
+2026-11-06T18:00:51+07:00,,,,1,invalid
+2026-11-06T18:11:41+07:00,,,,1,invalid
+2026-11-06T18:11:41+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-06T18:11:46+07:00,,,,1,invalid
+2026-11-06T19:48:36+07:00,,,,1,invalid
+2026-11-06T19:48:36+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-06T19:48:41+07:00,,,,1,invalid
+2026-11-06T19:48:52+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-06T19:48:53+07:00,,,,1,invalid
+2026-11-06T19:48:58+07:00,,,,1,invalid
+2026-11-09T07:30:30+07:00,,,,1,invalid
+2026-11-09T07:30:30+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-09T07:30:35+07:00,,,,1,invalid
+2026-11-09T07:35:39+07:00,,,,1,invalid
+2026-11-09T07:35:39+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-09T07:35:44+07:00,,,,1,invalid
+2026-11-09T07:40:53+07:00,,,,1,invalid
+2026-11-09T07:40:53+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-09T07:40:58+07:00,,,,1,invalid
+2026-11-09T07:52:05+07:00,,,,1,invalid
+2026-11-09T07:52:05+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-09T07:52:08+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-09T07:52:13+07:00,,,,1,invalid
+2026-11-09T07:55:08+07:00,,,,1,invalid
+2026-11-09T07:55:08+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-09T07:55:13+07:00,,,,1,invalid
+2026-11-09T07:57:32+07:00,,,,1,invalid
+2026-11-09T07:57:32+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-09T07:57:37+07:00,,,,1,invalid
+2026-11-09T08:01:47+07:00,,,,1,invalid
+2026-11-09T08:01:47+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:01:52+07:00,,,,1,invalid
+2026-11-09T08:06:32+07:00,,,,1,invalid
+2026-11-09T08:06:32+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:06:37+07:00,,,,1,invalid
+2026-11-09T08:07:48+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:07:49+07:00,,,,1,invalid
+2026-11-09T08:07:51+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:07:56+07:00,,,,1,invalid
+2026-11-09T08:09:16+07:00,,,,1,invalid
+2026-11-09T08:09:16+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:09:21+07:00,,,,1,invalid
+2026-11-09T08:15:28+07:00,,,,1,invalid
+2026-11-09T08:15:28+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:15:33+07:00,,,,1,invalid
+2026-11-09T08:16:58+07:00,,,,1,invalid
+2026-11-09T08:16:58+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:16:59+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:17:04+07:00,,,,1,invalid
+2026-11-09T08:17:52+07:00,,,,1,invalid
+2026-11-09T08:17:52+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:17:57+07:00,,,,1,invalid
+2026-11-09T08:27:48+07:00,,,,1,invalid
+2026-11-09T08:27:48+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:27:53+07:00,,,,1,invalid
+2026-11-09T08:51:32+07:00,,,,1,invalid
+2026-11-09T08:51:32+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:51:37+07:00,,,,1,invalid
+2026-11-09T08:59:51+07:00,,,,1,invalid
+2026-11-09T08:59:51+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-09T08:59:56+07:00,,,,1,invalid
+2026-11-09T13:18:47+07:00,,,,1,invalid
+2026-11-09T13:18:47+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-09T13:18:50+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-09T13:18:56+07:00,,,,1,invalid
+2026-11-09T16:25:10+07:00,,,,1,invalid
+2026-11-09T16:25:10+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-09T16:25:15+07:00,,,,1,invalid
+2026-11-09T16:38:59+07:00,,,,1,invalid
+2026-11-09T16:38:59+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-09T16:39:04+07:00,,,,1,invalid
+2026-11-09T16:43:40+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-09T16:43:41+07:00,,,,1,invalid
+2026-11-09T16:43:41+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-09T16:43:46+07:00,,,,1,invalid
+2026-11-09T17:01:46+07:00,,,,1,invalid
+2026-11-09T17:01:46+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:01:51+07:00,,,,1,invalid
+2026-11-09T17:01:55+07:00,,,,1,invalid
+2026-11-09T17:01:55+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:02:00+07:00,,,,1,invalid
+2026-11-09T17:06:32+07:00,,,,1,invalid
+2026-11-09T17:06:32+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:06:37+07:00,,,,1,invalid
+2026-11-09T17:08:58+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:09:11+07:00,,,,1,invalid
+2026-11-09T17:09:11+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:09:16+07:00,,,,1,invalid
+2026-11-09T17:10:13+07:00,,,,1,invalid
+2026-11-09T17:10:13+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:10:18+07:00,,,,1,invalid
+2026-11-09T17:21:35+07:00,,,,1,invalid
+2026-11-09T17:21:35+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:21:40+07:00,,,,1,invalid
+2026-11-09T17:21:42+07:00,,,,1,invalid
+2026-11-09T17:21:42+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:21:42+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:21:47+07:00,,,,1,invalid
+2026-11-09T17:25:24+07:00,,,,1,invalid
+2026-11-09T17:25:24+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:25:29+07:00,,,,1,invalid
+2026-11-09T17:42:19+07:00,,,,1,invalid
+2026-11-09T17:42:19+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:42:24+07:00,,,,1,invalid
+2026-11-09T17:46:39+07:00,,,,1,invalid
+2026-11-09T17:46:39+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:46:44+07:00,,,,1,invalid
+2026-11-09T17:53:33+07:00,,,,1,invalid
+2026-11-09T17:53:33+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-09T17:53:38+07:00,,,,1,invalid
+2026-11-09T18:11:12+07:00,,,,1,invalid
+2026-11-09T18:11:12+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-09T18:11:17+07:00,,,,1,invalid
+2026-11-09T18:18:34+07:00,,,,1,invalid
+2026-11-09T18:18:34+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-09T18:18:39+07:00,,,,1,invalid
+2026-11-09T18:31:03+07:00,,,,1,invalid
+2026-11-09T18:31:03+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-09T18:31:08+07:00,,,,1,invalid
+2026-11-09T19:02:28+07:00,,,,1,invalid
+2026-11-09T19:02:28+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-09T19:02:30+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-09T19:02:35+07:00,,,,1,invalid
+2026-11-09T19:27:39+07:00,,,,1,invalid
+2026-11-09T19:27:39+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-09T19:27:44+07:00,,,,1,invalid
+2026-11-10T06:28:25+07:00,,,,1,invalid
+2026-11-10T06:28:25+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-10T06:28:30+07:00,,,,1,invalid
+2026-11-10T07:08:06+07:00,,,,1,invalid
+2026-11-10T07:08:06+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:08:11+07:00,,,,1,invalid
+2026-11-10T07:20:43+07:00,,,,1,invalid
+2026-11-10T07:20:43+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:20:48+07:00,,,,1,invalid
+2026-11-10T07:27:05+07:00,,,,1,invalid
+2026-11-10T07:27:05+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:27:10+07:00,,,,1,invalid
+2026-11-10T07:29:16+07:00,,,,1,invalid
+2026-11-10T07:29:16+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:29:21+07:00,,,,1,invalid
+2026-11-10T07:48:37+07:00,,,,1,invalid
+2026-11-10T07:48:37+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:48:40+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:48:45+07:00,,,,1,invalid
+2026-11-10T07:55:16+07:00,,,,1,invalid
+2026-11-10T07:55:16+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:55:21+07:00,,,,1,invalid
+2026-11-10T07:57:16+07:00,,,,1,invalid
+2026-11-10T07:57:16+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:57:21+07:00,,,,1,invalid
+2026-11-10T07:58:03+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:58:07+07:00,,,,1,invalid
+2026-11-10T07:58:07+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:58:11+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:58:16+07:00,,,,1,invalid
+2026-11-10T07:58:32+07:00,,,,1,invalid
+2026-11-10T07:58:32+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-10T07:58:37+07:00,,,,1,invalid
+2026-11-10T08:01:14+07:00,,,,1,invalid
+2026-11-10T08:01:14+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-10T08:01:18+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-10T08:01:23+07:00,,,,1,invalid
+2026-11-10T08:02:44+07:00,,,,1,invalid
+2026-11-10T08:02:44+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-10T08:02:49+07:00,,,,1,invalid
+2026-11-10T08:06:03+07:00,,,,1,invalid
+2026-11-10T08:06:03+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-10T08:06:08+07:00,,,,1,invalid
+2026-11-10T08:06:27+07:00,,,,1,invalid
+2026-11-10T08:06:27+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-10T08:06:32+07:00,,,,1,invalid
+2026-11-10T08:07:15+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-10T08:07:17+07:00,,,,1,invalid
+2026-11-10T08:07:17+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-10T08:07:22+07:00,,,,1,invalid
+2026-11-10T08:07:35+07:00,,,,1,invalid
+2026-11-10T08:07:35+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-10T08:07:40+07:00,,,,1,invalid
+2026-11-10T08:09:58+07:00,,,,1,invalid
+2026-11-10T08:09:58+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-10T08:10:03+07:00,,,,1,invalid
+2026-11-10T08:11:14+07:00,,,,1,invalid
+2026-11-10T08:11:14+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-10T08:11:19+07:00,,,,1,invalid
+2026-11-10T08:15:44+07:00,,,,1,invalid
+2026-11-10T08:15:44+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-10T08:15:49+07:00,,,,1,invalid
+2026-11-10T09:36:06+07:00,,,,1,invalid
+2026-11-10T09:36:06+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-10T09:36:11+07:00,,,,1,invalid
+2026-11-10T11:38:39+07:00,,,,1,invalid
+2026-11-10T11:38:39+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-10T11:38:44+07:00,,,,1,invalid
+2026-11-10T11:53:17+07:00,,,,1,invalid
+2026-11-10T11:53:17+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-10T11:53:22+07:00,,,,1,invalid
+2026-11-10T14:46:27+07:00,,,,1,invalid
+2026-11-10T14:46:27+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-10T14:46:32+07:00,,,,1,invalid
+2026-11-10T15:14:57+07:00,,,,1,invalid
+2026-11-10T15:14:57+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-10T15:15:02+07:00,,,,1,invalid
+2026-11-10T15:39:44+07:00,,,,1,invalid
+2026-11-10T15:39:44+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-10T15:39:49+07:00,,,,1,invalid
+2026-11-10T16:40:47+07:00,,,,1,invalid
+2026-11-10T16:40:47+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-10T16:40:52+07:00,,,,1,invalid
+2026-11-10T17:01:02+07:00,,,,1,invalid
+2026-11-10T17:01:02+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:01:07+07:00,,,,1,invalid
+2026-11-10T17:01:45+07:00,,,,1,invalid
+2026-11-10T17:01:45+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:01:50+07:00,,,,1,invalid
+2026-11-10T17:02:10+07:00,,,,1,invalid
+2026-11-10T17:02:10+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:02:15+07:00,,,,1,invalid
+2026-11-10T17:09:00+07:00,,,,1,invalid
+2026-11-10T17:09:00+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:09:05+07:00,,,,1,invalid
+2026-11-10T17:10:44+07:00,,,,1,invalid
+2026-11-10T17:10:44+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:10:49+07:00,,,,1,invalid
+2026-11-10T17:11:34+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:11:35+07:00,,,,1,invalid
+2026-11-10T17:11:40+07:00,,,,1,invalid
+2026-11-10T17:11:41+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:11:48+07:00,,,,1,invalid
+2026-11-10T17:11:48+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:11:53+07:00,,,,1,invalid
+2026-11-10T17:12:22+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:12:27+07:00,,,,1,invalid
+2026-11-10T17:12:27+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:12:32+07:00,,,,1,invalid
+2026-11-10T17:13:51+07:00,,,,1,invalid
+2026-11-10T17:13:51+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:13:56+07:00,,,,1,invalid
+2026-11-10T17:16:25+07:00,,,,1,invalid
+2026-11-10T17:16:25+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:16:30+07:00,,,,1,invalid
+2026-11-10T17:18:12+07:00,,,,1,invalid
+2026-11-10T17:18:12+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:18:17+07:00,,,,1,invalid
+2026-11-10T17:59:52+07:00,,,,1,invalid
+2026-11-10T17:59:52+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:59:53+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:59:55+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-10T17:59:58+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-10T18:00:03+07:00,,,,1,invalid
+2026-11-10T18:00:03+07:00,,,,1,invalid
+2026-11-10T18:00:03+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-10T18:00:08+07:00,,,,1,invalid
+2026-11-10T18:30:35+07:00,,,,1,invalid
+2026-11-10T18:30:35+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-10T18:30:40+07:00,,,,1,invalid
+2026-11-10T18:44:06+07:00,,,,1,invalid
+2026-11-10T18:44:06+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-11-10T18:44:09+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-10T18:44:14+07:00,,,,1,invalid
+2026-11-10T19:13:03+07:00,,,,1,invalid
+2026-11-10T19:13:03+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-10T19:13:08+07:00,,,,1,invalid
+2026-11-10T20:48:14+07:00,,,,1,invalid
+2026-11-10T20:48:14+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-10T20:48:19+07:00,,,,1,invalid
+2026-11-11T06:27:06+07:00,,,,1,invalid
+2026-11-11T06:27:06+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-11T06:27:11+07:00,,,,1,invalid
+2026-11-11T06:59:34+07:00,,,,1,invalid
+2026-11-11T06:59:34+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-11T06:59:39+07:00,,,,1,invalid
+2026-11-11T07:23:04+07:00,,,,1,invalid
+2026-11-11T07:23:04+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:23:09+07:00,,,,1,invalid
+2026-11-11T07:26:28+07:00,,,,1,invalid
+2026-11-11T07:26:28+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:26:29+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:26:34+07:00,,,,1,invalid
+2026-11-11T07:26:41+07:00,,,,1,invalid
+2026-11-11T07:26:41+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:26:46+07:00,,,,1,invalid
+2026-11-11T07:33:36+07:00,,,,1,invalid
+2026-11-11T07:33:36+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:33:39+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:33:44+07:00,,,,1,invalid
+2026-11-11T07:38:23+07:00,,,,1,invalid
+2026-11-11T07:38:23+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:38:26+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:38:31+07:00,,,,1,invalid
+2026-11-11T07:45:01+07:00,,,,1,invalid
+2026-11-11T07:45:01+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:45:06+07:00,,,,1,invalid
+2026-11-11T07:51:47+07:00,,,,1,invalid
+2026-11-11T07:51:47+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:51:52+07:00,,,,1,invalid
+2026-11-11T07:55:29+07:00,,,,1,invalid
+2026-11-11T07:55:29+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:55:32+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:55:37+07:00,,,,1,invalid
+2026-11-11T07:55:41+07:00,,,,1,invalid
+2026-11-11T07:55:41+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:55:46+07:00,,,,1,invalid
+2026-11-11T07:55:49+07:00,,,,1,invalid
+2026-11-11T07:55:49+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:55:54+07:00,,,,1,invalid
+2026-11-11T07:56:25+07:00,,,,1,invalid
+2026-11-11T07:56:25+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:56:30+07:00,,,,1,invalid
+2026-11-11T07:58:40+07:00,,,,1,invalid
+2026-11-11T07:58:40+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:58:42+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:58:45+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-11T07:58:50+07:00,,,,1,invalid
+2026-11-11T08:01:10+07:00,,,,1,invalid
+2026-11-11T08:01:10+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-11T08:01:15+07:00,,,,1,invalid
+2026-11-11T08:07:08+07:00,,,,1,invalid
+2026-11-11T08:07:08+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-11T08:07:13+07:00,,,,1,invalid
+2026-11-11T08:21:20+07:00,,,,1,invalid
+2026-11-11T08:21:20+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-11T08:21:25+07:00,,,,1,invalid
+2026-11-11T08:25:52+07:00,,,,1,invalid
+2026-11-11T08:25:52+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-11T08:25:57+07:00,,,,1,invalid
+2026-11-11T08:34:15+07:00,,,,1,invalid
+2026-11-11T08:34:15+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-11-11T08:34:20+07:00,,,,1,invalid
+2026-11-11T13:50:10+07:00,,,,1,invalid
+2026-11-11T13:50:10+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-11T13:50:15+07:00,,,,1,invalid
+2026-11-11T15:04:25+07:00,,,,,invalid
+2026-11-11T15:05:08+07:00,,,,,invalid
+2026-11-11T15:12:13+07:00,,,,1,invalid
+2026-11-11T15:12:13+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-11T15:12:18+07:00,,,,1,invalid
+2026-11-11T15:32:07+07:00,,,,1,invalid
+2026-11-11T15:32:07+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-11T15:32:12+07:00,,,,1,invalid
+2026-11-11T15:44:57+07:00,,,,1,invalid
+2026-11-11T15:44:57+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-11T15:45:02+07:00,,,,1,invalid
+2026-11-11T16:25:45+07:00,,,,1,invalid
+2026-11-11T16:25:45+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-11T16:25:50+07:00,,,,1,invalid
+2026-11-11T16:51:30+07:00,,,,,invalid
+2026-11-11T16:51:35+07:00,,,,,invalid
+2026-11-11T16:52:38+07:00,,,,,invalid
+2026-11-11T16:59:44+07:00,,,,,invalid
+2026-11-11T16:59:51+07:00,,,,,invalid
+2026-11-11T17:00:00+07:00,,,,,invalid
+2026-11-11T17:00:08+07:00,,,,,invalid
+2026-11-11T17:00:28+07:00,,,,1,invalid
+2026-11-11T17:00:28+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:00:33+07:00,,,,1,invalid
+2026-11-11T17:00:47+07:00,,,,1,invalid
+2026-11-11T17:00:47+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:00:52+07:00,,,,1,invalid
+2026-11-11T17:01:11+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:01:12+07:00,,,,1,invalid
+2026-11-11T17:01:17+07:00,,,,1,invalid
+2026-11-11T17:03:15+07:00,,,,1,invalid
+2026-11-11T17:03:15+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:03:20+07:00,,,,1,invalid
+2026-11-11T17:04:49+07:00,,,,1,invalid
+2026-11-11T17:04:49+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:04:50+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:04:55+07:00,,,,1,invalid
+2026-11-11T17:05:06+07:00,,,,1,invalid
+2026-11-11T17:05:06+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:05:11+07:00,,,,1,invalid
+2026-11-11T17:06:11+07:00,,,,1,invalid
+2026-11-11T17:06:11+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:06:16+07:00,,,,1,invalid
+2026-11-11T17:06:33+07:00,,,,,invalid
+2026-11-11T17:07:41+07:00,,,,1,invalid
+2026-11-11T17:07:41+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:07:46+07:00,,,,1,invalid
+2026-11-11T17:21:56+07:00,,,,1,invalid
+2026-11-11T17:21:56+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:21:59+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:22:04+07:00,,,,1,invalid
+2026-11-11T17:29:41+07:00,,,,1,invalid
+2026-11-11T17:29:41+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:29:46+07:00,,,,1,invalid
+2026-11-11T17:32:40+07:00,,,,1,invalid
+2026-11-11T17:32:40+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-11T17:32:45+07:00,,,,1,invalid
+2026-11-11T18:06:46+07:00,,,,1,invalid
+2026-11-11T18:06:46+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-11T18:06:51+07:00,,,,1,invalid
+2026-11-11T18:13:50+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-11T18:13:51+07:00,,,,1,invalid
+2026-11-11T18:13:51+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-11T18:13:56+07:00,,,,1,invalid
+2026-11-11T18:32:04+07:00,,,,1,invalid
+2026-11-11T18:32:04+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-11T18:32:09+07:00,,,,1,invalid
+2026-11-11T19:26:16+07:00,,,,1,invalid
+2026-11-11T19:26:16+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-11T19:26:21+07:00,,,,1,invalid
+2026-11-12T06:17:23+07:00,,,,1,invalid
+2026-11-12T06:17:23+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-12T06:17:28+07:00,,,,1,invalid
+2026-11-12T06:44:28+07:00,,,,1,invalid
+2026-11-12T06:44:28+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-12T06:44:34+07:00,,,,1,invalid
+2026-11-12T07:08:13+07:00,,,,1,invalid
+2026-11-12T07:08:13+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:08:18+07:00,,,,1,invalid
+2026-11-12T07:14:22+07:00,,,,1,invalid
+2026-11-12T07:14:22+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:14:27+07:00,,,,1,invalid
+2026-11-12T07:23:44+07:00,,,,1,invalid
+2026-11-12T07:23:44+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:23:49+07:00,,,,1,invalid
+2026-11-12T07:27:38+07:00,,,,1,invalid
+2026-11-12T07:27:38+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:27:43+07:00,,,,1,invalid
+2026-11-12T07:41:30+07:00,,,,1,invalid
+2026-11-12T07:41:30+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:41:35+07:00,,,,1,invalid
+2026-11-12T07:43:44+07:00,,,,1,invalid
+2026-11-12T07:43:44+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:43:49+07:00,,,,1,invalid
+2026-11-12T07:43:53+07:00,,,,1,invalid
+2026-11-12T07:43:53+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:43:58+07:00,,,,1,invalid
+2026-11-12T07:43:58+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:44:02+07:00,,,,1,invalid
+2026-11-12T07:44:02+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:44:07+07:00,,,,1,invalid
+2026-11-12T07:46:21+07:00,,,,1,invalid
+2026-11-12T07:46:21+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:46:26+07:00,,,,1,invalid
+2026-11-12T07:51:14+07:00,,,,1,invalid
+2026-11-12T07:51:14+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:51:19+07:00,,,,1,invalid
+2026-11-12T07:51:22+07:00,,,,1,invalid
+2026-11-12T07:51:22+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:51:26+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:51:31+07:00,,,,1,invalid
+2026-11-12T07:56:29+07:00,,,,1,invalid
+2026-11-12T07:56:29+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:56:32+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:56:37+07:00,,,,1,invalid
+2026-11-12T07:56:37+07:00,,,,1,invalid
+2026-11-12T07:56:37+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:56:42+07:00,,,,1,invalid
+2026-11-12T07:59:39+07:00,,,,1,invalid
+2026-11-12T07:59:39+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-12T07:59:44+07:00,,,,1,invalid
+2026-11-12T08:00:26+07:00,,,,1,invalid
+2026-11-12T08:00:26+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-12T08:00:31+07:00,,,,1,invalid
+2026-11-12T08:03:53+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-12T08:04:23+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-12T08:08:25+07:00,,,,1,invalid
+2026-11-12T08:08:25+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-12T08:08:30+07:00,,,,1,invalid
+2026-11-12T08:08:52+07:00,,,,1,invalid
+2026-11-12T08:08:52+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-12T08:08:57+07:00,,,,1,invalid
+2026-11-12T08:41:29+07:00,,,,1,invalid
+2026-11-12T08:41:29+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-12T08:41:34+07:00,,,,1,invalid
+2026-11-12T08:44:23+07:00,,,,1,invalid
+2026-11-12T08:44:23+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-12T08:44:28+07:00,,,,1,invalid
+2026-11-12T09:32:07+07:00,,,,1,invalid
+2026-11-12T09:32:07+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-12T09:32:12+07:00,,,,1,invalid
+2026-11-12T15:07:33+07:00,,,,,invalid
+2026-11-12T15:07:36+07:00,,,,,invalid
+2026-11-12T15:43:12+07:00,,,,1,invalid
+2026-11-12T15:43:12+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-12T15:43:17+07:00,,,,1,invalid
+2026-11-12T15:54:31+07:00,,,,,invalid
+2026-11-12T16:12:26+07:00,,,,1,invalid
+2026-11-12T16:12:26+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-12T16:12:31+07:00,,,,1,invalid
+2026-11-12T16:21:50+07:00,,,,1,invalid
+2026-11-12T16:21:50+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-12T16:21:55+07:00,,,,1,invalid
+2026-11-12T16:24:05+07:00,,,,1,invalid
+2026-11-12T16:24:05+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-12T16:24:10+07:00,,,,1,invalid
+2026-11-12T16:48:24+07:00,,,,1,invalid
+2026-11-12T16:48:24+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-12T16:48:29+07:00,,,,1,invalid
+2026-11-12T17:03:44+07:00,,,,1,invalid
+2026-11-12T17:03:44+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-12T17:03:48+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-12T17:03:53+07:00,,,,1,invalid
+2026-11-12T17:04:20+07:00,,,,1,invalid
+2026-11-12T17:04:20+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-12T17:04:25+07:00,,,,1,invalid
+2026-11-12T17:07:33+07:00,,,,1,invalid
+2026-11-12T17:07:33+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-12T17:07:38+07:00,,,,1,invalid
+2026-11-12T17:07:39+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-12T17:07:56+07:00,,,,1,invalid
+2026-11-12T17:07:56+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-12T17:08:01+07:00,,,,1,invalid
+2026-11-12T17:08:14+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-12T17:08:25+07:00,,,,1,invalid
+2026-11-12T17:08:25+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-12T17:08:30+07:00,,,,1,invalid
+2026-11-12T17:39:17+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-12T17:39:18+07:00,,,,1,invalid
+2026-11-12T17:39:23+07:00,,,,1,invalid
+2026-11-12T17:40:31+07:00,,,,1,invalid
+2026-11-12T17:40:31+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-12T17:40:36+07:00,,,,1,invalid
+2026-11-12T18:47:26+07:00,,,,1,invalid
+2026-11-12T18:47:26+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-12T18:47:31+07:00,,,,1,invalid
+2026-11-12T18:58:47+07:00,,,,1,invalid
+2026-11-12T18:58:47+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-12T18:58:52+07:00,,,,1,invalid
+2026-11-12T18:59:01+07:00,,,,1,invalid
+2026-11-12T18:59:01+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-12T18:59:06+07:00,,,,1,invalid
+2026-11-13T06:18:22+07:00,,,,1,invalid
+2026-11-13T06:18:22+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-13T06:18:27+07:00,,,,1,invalid
+2026-11-13T07:05:49+07:00,,,,1,invalid
+2026-11-13T07:05:49+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:05:54+07:00,,,,1,invalid
+2026-11-13T07:22:51+07:00,,,,1,invalid
+2026-11-13T07:22:51+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:22:56+07:00,,,,1,invalid
+2026-11-13T07:35:38+07:00,,,,1,invalid
+2026-11-13T07:35:38+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:35:39+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:35:44+07:00,,,,1,invalid
+2026-11-13T07:40:54+07:00,,,,1,invalid
+2026-11-13T07:40:54+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:40:59+07:00,,,,1,invalid
+2026-11-13T07:41:02+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:41:05+07:00,,,,1,invalid
+2026-11-13T07:41:05+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:41:08+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:41:13+07:00,,,,1,invalid
+2026-11-13T07:48:05+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:48:09+07:00,,,,1,invalid
+2026-11-13T07:48:09+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:48:14+07:00,,,,1,invalid
+2026-11-13T07:48:34+07:00,,,,1,invalid
+2026-11-13T07:48:34+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:48:39+07:00,,,,1,invalid
+2026-11-13T07:49:48+07:00,,,,1,invalid
+2026-11-13T07:49:48+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:49:53+07:00,,,,1,invalid
+2026-11-13T07:51:58+07:00,,,,1,invalid
+2026-11-13T07:51:58+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:52:00+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:52:05+07:00,,,,1,invalid
+2026-11-13T07:53:41+07:00,,,,1,invalid
+2026-11-13T07:53:41+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:53:46+07:00,,,,1,invalid
+2026-11-13T07:57:02+07:00,,,,1,invalid
+2026-11-13T07:57:02+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:57:07+07:00,,,,1,invalid
+2026-11-13T07:57:29+07:00,,,,1,invalid
+2026-11-13T07:57:29+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:57:34+07:00,,,,1,invalid
+2026-11-13T07:59:10+07:00,,,,1,invalid
+2026-11-13T07:59:10+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:59:13+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-13T07:59:18+07:00,,,,1,invalid
+2026-11-13T08:00:53+07:00,,,,1,invalid
+2026-11-13T08:00:53+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-13T08:00:58+07:00,,,,1,invalid
+2026-11-13T08:02:04+07:00,,,,1,invalid
+2026-11-13T08:02:04+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-13T08:02:09+07:00,,,,1,invalid
+2026-11-13T08:04:11+07:00,,,,1,invalid
+2026-11-13T08:04:11+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-13T08:04:16+07:00,,,,1,invalid
+2026-11-13T08:10:20+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-13T08:10:21+07:00,,,,1,invalid
+2026-11-13T08:10:26+07:00,,,,1,invalid
+2026-11-13T08:14:46+07:00,,,,1,invalid
+2026-11-13T08:14:46+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-13T08:14:51+07:00,,,,1,invalid
+2026-11-13T08:15:03+07:00,,,,1,invalid
+2026-11-13T08:15:03+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-13T08:15:08+07:00,,,,1,invalid
+2026-11-13T08:25:36+07:00,,,,1,invalid
+2026-11-13T08:25:36+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-13T08:25:41+07:00,,,,1,invalid
+2026-11-13T08:39:24+07:00,,,,1,invalid
+2026-11-13T08:39:24+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-13T08:39:29+07:00,,,,1,invalid
+2026-11-13T08:56:53+07:00,,,,1,invalid
+2026-11-13T08:56:53+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-13T08:56:58+07:00,,,,1,invalid
+2026-11-13T10:54:11+07:00,,,,1,invalid
+2026-11-13T10:54:11+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-13T10:54:13+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-13T10:54:19+07:00,,,,1,invalid
+2026-11-13T11:31:18+07:00,,,,1,invalid
+2026-11-13T11:31:18+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-13T11:31:23+07:00,,,,1,invalid
+2026-11-13T13:35:53+07:00,,,,1,invalid
+2026-11-13T13:35:53+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-13T13:35:58+07:00,,,,1,invalid
+2026-11-13T16:20:49+07:00,,,,1,invalid
+2026-11-13T16:20:49+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-13T16:20:54+07:00,,,,1,invalid
+2026-11-13T16:22:42+07:00,,,,1,invalid
+2026-11-13T16:22:42+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-13T16:22:47+07:00,,,,1,invalid
+2026-11-13T16:50:59+07:00,,,,1,invalid
+2026-11-13T16:50:59+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-13T16:51:04+07:00,,,,1,invalid
+2026-11-13T17:01:35+07:00,,,,1,invalid
+2026-11-13T17:01:35+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:01:40+07:00,,,,1,invalid
+2026-11-13T17:01:41+07:00,,,,1,invalid
+2026-11-13T17:01:41+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:01:47+07:00,,,,1,invalid
+2026-11-13T17:05:53+07:00,,,,1,invalid
+2026-11-13T17:05:53+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:05:58+07:00,,,,1,invalid
+2026-11-13T17:07:00+07:00,,,,1,invalid
+2026-11-13T17:07:00+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:07:05+07:00,,,,1,invalid
+2026-11-13T17:07:22+07:00,,,,1,invalid
+2026-11-13T17:07:22+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:07:27+07:00,,,,1,invalid
+2026-11-13T17:08:35+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:08:36+07:00,,,,1,invalid
+2026-11-13T17:08:41+07:00,,,,1,invalid
+2026-11-13T17:11:16+07:00,,,,1,invalid
+2026-11-13T17:11:16+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:11:21+07:00,,,,1,invalid
+2026-11-13T17:13:17+07:00,,,,1,invalid
+2026-11-13T17:13:17+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:13:22+07:00,,,,1,invalid
+2026-11-13T17:34:54+07:00,,,,1,invalid
+2026-11-13T17:34:54+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:34:59+07:00,,,,1,invalid
+2026-11-13T17:35:37+07:00,,,,1,invalid
+2026-11-13T17:35:37+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:35:42+07:00,,,,1,invalid
+2026-11-13T17:51:03+07:00,,,,1,invalid
+2026-11-13T17:51:03+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:51:08+07:00,,,,1,invalid
+2026-11-13T17:56:34+07:00,,,,1,invalid
+2026-11-13T17:56:34+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-13T17:56:39+07:00,,,,1,invalid
+2026-11-13T18:59:26+07:00,,,,1,invalid
+2026-11-13T18:59:26+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-13T18:59:31+07:00,,,,1,invalid
+2026-11-13T19:05:18+07:00,,,,1,invalid
+2026-11-13T19:05:18+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-13T19:05:23+07:00,,,,1,invalid
+2026-11-13T19:25:19+07:00,,,,1,invalid
+2026-11-13T19:25:19+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-13T19:25:24+07:00,,,,1,invalid
+2026-11-13T21:15:47+07:00,,,,1,invalid
+2026-11-13T21:15:47+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-13T21:15:52+07:00,,,,1,invalid
+2026-11-13T21:16:09+07:00,,,,1,invalid
+2026-11-13T21:16:09+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-13T21:16:14+07:00,,,,1,invalid
+2026-11-16T06:28:58+07:00,,,,1,invalid
+2026-11-16T06:28:58+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-16T06:29:03+07:00,,,,1,invalid
+2026-11-16T07:13:42+07:00,,,,1,invalid
+2026-11-16T07:13:42+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:13:42+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:13:47+07:00,,,,1,invalid
+2026-11-16T07:18:22+07:00,,,,1,invalid
+2026-11-16T07:18:22+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:18:27+07:00,,,,1,invalid
+2026-11-16T07:34:43+07:00,,,,1,invalid
+2026-11-16T07:34:43+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:34:48+07:00,,,,1,invalid
+2026-11-16T07:36:44+07:00,,,,1,invalid
+2026-11-16T07:36:44+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:36:49+07:00,,,,1,invalid
+2026-11-16T07:44:52+07:00,,,,1,invalid
+2026-11-16T07:44:52+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:44:57+07:00,,,,1,invalid
+2026-11-16T07:45:04+07:00,,,,1,invalid
+2026-11-16T07:45:04+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:45:09+07:00,,,,1,invalid
+2026-11-16T07:46:07+07:00,,,,1,invalid
+2026-11-16T07:46:07+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:46:08+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:46:12+07:00,,,,1,invalid
+2026-11-16T07:46:13+07:00,,,,1,invalid
+2026-11-16T07:46:13+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:46:18+07:00,,,,1,invalid
+2026-11-16T07:51:39+07:00,,,,1,invalid
+2026-11-16T07:51:39+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:51:44+07:00,,,,1,invalid
+2026-11-16T07:52:24+07:00,,,,1,invalid
+2026-11-16T07:52:24+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:52:29+07:00,,,,1,invalid
+2026-11-16T07:54:46+07:00,,,,1,invalid
+2026-11-16T07:54:46+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:54:51+07:00,,,,1,invalid
+2026-11-16T07:55:56+07:00,,,,1,invalid
+2026-11-16T07:55:56+07:00,18,Nguyễn Ngọc Thành,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:56:01+07:00,,,,1,invalid
+2026-11-16T07:57:34+07:00,,,,1,invalid
+2026-11-16T07:57:34+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:57:39+07:00,,,,1,invalid
+2026-11-16T07:59:42+07:00,,,,1,invalid
+2026-11-16T07:59:42+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-16T07:59:47+07:00,,,,1,invalid
+2026-11-16T08:00:13+07:00,,,,1,invalid
+2026-11-16T08:00:13+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-16T08:00:18+07:00,,,,1,invalid
+2026-11-16T08:00:21+07:00,,,,1,invalid
+2026-11-16T08:00:21+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-16T08:00:24+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-16T08:00:29+07:00,,,,1,invalid
+2026-11-16T08:01:19+07:00,,,,1,invalid
+2026-11-16T08:01:19+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-16T08:01:21+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-16T08:01:26+07:00,,,,1,invalid
+2026-11-16T08:07:16+07:00,,,,1,invalid
+2026-11-16T08:07:16+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-16T08:07:21+07:00,,,,1,invalid
+2026-11-16T08:08:02+07:00,,,,1,invalid
+2026-11-16T08:08:02+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-16T08:08:07+07:00,,,,1,invalid
+2026-11-16T08:16:47+07:00,,,,1,invalid
+2026-11-16T08:16:47+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-16T08:16:52+07:00,,,,1,invalid
+2026-11-16T08:39:07+07:00,,,,1,invalid
+2026-11-16T08:39:07+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-16T08:39:12+07:00,,,,1,invalid
+2026-11-16T08:58:56+07:00,,,,1,invalid
+2026-11-16T08:58:56+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-16T08:58:58+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-16T08:59:03+07:00,,,,1,invalid
+2026-11-16T09:12:55+07:00,,,,1,invalid
+2026-11-16T09:12:55+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-16T09:13:00+07:00,,,,1,invalid
+2026-11-16T09:33:43+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-16T09:33:44+07:00,,,,1,invalid
+2026-11-16T09:33:49+07:00,,,,1,invalid
+2026-11-16T10:26:07+07:00,,,,1,invalid
+2026-11-16T10:26:07+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-16T10:26:12+07:00,,,,1,invalid
+2026-11-16T12:20:27+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-16T12:20:28+07:00,,,,1,invalid
+2026-11-16T12:20:33+07:00,,,,1,invalid
+2026-11-16T13:14:37+07:00,,,,1,invalid
+2026-11-16T13:14:37+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-16T13:14:42+07:00,,,,1,invalid
+2026-11-16T15:42:42+07:00,,,,1,invalid
+2026-11-16T15:42:42+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-16T15:42:47+07:00,,,,1,invalid
+2026-11-16T15:49:51+07:00,,,,1,invalid
+2026-11-16T15:49:51+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-16T15:49:56+07:00,,,,1,invalid
+2026-11-16T15:57:25+07:00,,,,1,invalid
+2026-11-16T15:57:25+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-16T15:57:30+07:00,,,,1,invalid
+2026-11-16T16:25:26+07:00,,,,1,invalid
+2026-11-16T16:25:26+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-16T16:25:31+07:00,,,,1,invalid
+2026-11-16T16:50:07+07:00,,,,1,invalid
+2026-11-16T16:50:07+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-16T16:50:12+07:00,,,,1,invalid
+2026-11-16T17:00:41+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:00:42+07:00,,,,1,invalid
+2026-11-16T17:00:47+07:00,,,,1,invalid
+2026-11-16T17:00:53+07:00,,,,1,invalid
+2026-11-16T17:00:53+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:00:59+07:00,,,,1,invalid
+2026-11-16T17:02:45+07:00,,,,1,invalid
+2026-11-16T17:02:45+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:02:47+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:02:52+07:00,,,,1,invalid
+2026-11-16T17:03:02+07:00,,,,1,invalid
+2026-11-16T17:03:02+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:03:07+07:00,,,,1,invalid
+2026-11-16T17:03:15+07:00,,,,1,invalid
+2026-11-16T17:03:15+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:03:20+07:00,,,,1,invalid
+2026-11-16T17:10:06+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:10:07+07:00,,,,1,invalid
+2026-11-16T17:10:08+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:10:13+07:00,,,,1,invalid
+2026-11-16T17:12:59+07:00,,,,1,invalid
+2026-11-16T17:12:59+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:13:04+07:00,,,,1,invalid
+2026-11-16T17:18:10+07:00,,,,1,invalid
+2026-11-16T17:18:10+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:18:15+07:00,,,,1,invalid
+2026-11-16T17:18:18+07:00,,,,1,invalid
+2026-11-16T17:18:18+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:18:23+07:00,,,,1,invalid
+2026-11-16T17:24:41+07:00,,,,1,invalid
+2026-11-16T17:24:41+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:24:46+07:00,,,,1,invalid
+2026-11-16T17:30:18+07:00,,,,1,invalid
+2026-11-16T17:30:18+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:30:23+07:00,,,,1,invalid
+2026-11-16T17:33:23+07:00,,,,1,invalid
+2026-11-16T17:33:23+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:33:28+07:00,,,,1,invalid
+2026-11-16T17:33:32+07:00,,,,1,invalid
+2026-11-16T17:33:32+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:33:37+07:00,,,,1,invalid
+2026-11-16T17:35:29+07:00,,,,1,invalid
+2026-11-16T17:35:29+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-16T17:35:34+07:00,,,,1,invalid
+2026-11-16T19:30:28+07:00,,,,1,invalid
+2026-11-16T19:30:28+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-16T19:30:33+07:00,,,,1,invalid
+2026-11-17T06:33:16+07:00,,,,1,invalid
+2026-11-17T06:33:16+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-17T06:33:21+07:00,,,,1,invalid
+2026-11-17T06:47:36+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-17T06:47:37+07:00,,,,1,invalid
+2026-11-17T06:47:42+07:00,,,,1,invalid
+2026-11-17T07:23:16+07:00,,,,1,invalid
+2026-11-17T07:23:16+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:23:21+07:00,,,,1,invalid
+2026-11-17T07:27:44+07:00,,,,1,invalid
+2026-11-17T07:27:44+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:27:49+07:00,,,,1,invalid
+2026-11-17T07:33:02+07:00,,,,1,invalid
+2026-11-17T07:33:02+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:33:07+07:00,,,,1,invalid
+2026-11-17T07:35:51+07:00,,,,1,invalid
+2026-11-17T07:35:51+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:35:56+07:00,,,,1,invalid
+2026-11-17T07:39:14+07:00,,,,1,invalid
+2026-11-17T07:39:14+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:39:16+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:39:21+07:00,,,,1,invalid
+2026-11-17T07:41:12+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:41:15+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:41:19+07:00,,,,1,invalid
+2026-11-17T07:41:19+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:41:24+07:00,,,,1,invalid
+2026-11-17T07:41:41+07:00,,,,1,invalid
+2026-11-17T07:41:41+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:41:46+07:00,,,,1,invalid
+2026-11-17T07:47:23+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:47:24+07:00,,,,1,invalid
+2026-11-17T07:47:29+07:00,,,,1,invalid
+2026-11-17T07:51:18+07:00,,,,1,invalid
+2026-11-17T07:51:18+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:51:23+07:00,,,,1,invalid
+2026-11-17T07:56:40+07:00,,,,1,invalid
+2026-11-17T07:56:40+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:56:43+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:56:48+07:00,,,,1,invalid
+2026-11-17T07:58:26+07:00,,,,1,invalid
+2026-11-17T07:58:26+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:58:28+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-17T07:58:33+07:00,,,,1,invalid
+2026-11-17T08:00:27+07:00,,,,1,invalid
+2026-11-17T08:00:27+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-17T08:00:31+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-17T08:00:33+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-17T08:00:36+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-17T08:00:41+07:00,,,,1,invalid
+2026-11-17T08:01:41+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-17T08:01:42+07:00,,,,1,invalid
+2026-11-17T08:01:46+07:00,,,,1,invalid
+2026-11-17T08:03:30+07:00,,,,1,invalid
+2026-11-17T08:03:30+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-17T08:03:35+07:00,,,,1,invalid
+2026-11-17T08:04:31+07:00,,,,1,invalid
+2026-11-17T08:04:31+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-17T08:04:36+07:00,,,,1,invalid
+2026-11-17T08:06:22+07:00,,,,1,invalid
+2026-11-17T08:06:22+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-17T08:06:26+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-17T08:06:31+07:00,,,,1,invalid
+2026-11-17T16:27:09+07:00,,,,1,invalid
+2026-11-17T16:27:09+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-17T16:27:14+07:00,,,,1,invalid
+2026-11-17T17:00:34+07:00,,,,1,invalid
+2026-11-17T17:00:34+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:00:39+07:00,,,,1,invalid
+2026-11-17T17:02:27+07:00,,,,1,invalid
+2026-11-17T17:02:27+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:02:30+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:02:35+07:00,,,,1,invalid
+2026-11-17T17:03:01+07:00,,,,1,invalid
+2026-11-17T17:03:01+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:03:06+07:00,,,,1,invalid
+2026-11-17T17:04:05+07:00,,,,1,invalid
+2026-11-17T17:04:05+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:04:10+07:00,,,,1,invalid
+2026-11-17T17:05:14+07:00,,,,1,invalid
+2026-11-17T17:05:14+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:05:19+07:00,,,,1,invalid
+2026-11-17T17:05:20+07:00,,,,1,invalid
+2026-11-17T17:05:20+07:00,30,Nguyễn Tiến Hồng Quân,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:05:25+07:00,,,,1,invalid
+2026-11-17T17:06:23+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:06:24+07:00,,,,1,invalid
+2026-11-17T17:06:29+07:00,,,,1,invalid
+2026-11-17T17:07:33+07:00,,,,1,invalid
+2026-11-17T17:07:33+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:07:39+07:00,,,,1,invalid
+2026-11-17T17:07:43+07:00,,,,1,invalid
+2026-11-17T17:07:43+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:07:48+07:00,,,,1,invalid
+2026-11-17T17:13:50+07:00,,,,1,invalid
+2026-11-17T17:13:50+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:13:55+07:00,,,,1,invalid
+2026-11-17T17:42:26+07:00,,,,1,invalid
+2026-11-17T17:42:26+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:42:29+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:42:34+07:00,,,,1,invalid
+2026-11-17T17:48:31+07:00,,,,1,invalid
+2026-11-17T17:48:31+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:48:36+07:00,,,,1,invalid
+2026-11-17T17:50:37+07:00,,,,1,invalid
+2026-11-17T17:50:37+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:50:42+07:00,,,,1,invalid
+2026-11-17T17:52:01+07:00,,,,1,invalid
+2026-11-17T17:52:01+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:52:04+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-17T17:52:09+07:00,,,,1,invalid
+2026-11-17T19:03:41+07:00,,,,1,invalid
+2026-11-17T19:03:41+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-17T19:03:46+07:00,,,,1,invalid
+2026-11-17T19:49:13+07:00,,,,1,invalid
+2026-11-17T19:49:13+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-17T19:49:18+07:00,,,,1,invalid
+2026-11-18T06:26:23+07:00,,,,1,invalid
+2026-11-18T06:26:23+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-18T06:26:28+07:00,,,,1,invalid
+2026-11-18T07:18:55+07:00,,,,1,invalid
+2026-11-18T07:18:55+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:19:00+07:00,,,,1,invalid
+2026-11-18T07:24:05+07:00,,,,1,invalid
+2026-11-18T07:24:05+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:24:10+07:00,,,,1,invalid
+2026-11-18T07:36:56+07:00,,,,1,invalid
+2026-11-18T07:36:56+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:37:01+07:00,,,,1,invalid
+2026-11-18T07:38:52+07:00,,,,1,invalid
+2026-11-18T07:38:52+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:38:57+07:00,,,,1,invalid
+2026-11-18T07:38:57+07:00,,,,1,invalid
+2026-11-18T07:38:57+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:39:02+07:00,,,,1,invalid
+2026-11-18T07:41:18+07:00,,,,1,invalid
+2026-11-18T07:41:18+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:41:23+07:00,,,,1,invalid
+2026-11-18T07:48:00+07:00,,,,1,invalid
+2026-11-18T07:48:00+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:48:05+07:00,,,,1,invalid
+2026-11-18T07:50:21+07:00,,,,1,invalid
+2026-11-18T07:50:21+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:50:26+07:00,,,,1,invalid
+2026-11-18T07:51:37+07:00,,,,1,invalid
+2026-11-18T07:51:37+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:51:42+07:00,,,,1,invalid
+2026-11-18T07:54:00+07:00,,,,1,invalid
+2026-11-18T07:54:00+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:54:03+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:54:04+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:54:09+07:00,,,,1,invalid
+2026-11-18T07:56:11+07:00,,,,1,invalid
+2026-11-18T07:56:11+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:56:15+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:56:20+07:00,,,,1,invalid
+2026-11-18T07:57:15+07:00,,,,1,invalid
+2026-11-18T07:57:15+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:57:20+07:00,,,,1,invalid
+2026-11-18T07:58:27+07:00,,,,1,invalid
+2026-11-18T07:58:27+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-18T07:58:32+07:00,,,,1,invalid
+2026-11-18T08:01:25+07:00,,,,1,invalid
+2026-11-18T08:01:25+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-18T08:01:29+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-18T08:01:34+07:00,,,,1,invalid
+2026-11-18T08:04:26+07:00,,,,1,invalid
+2026-11-18T08:04:26+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-18T08:04:31+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-18T08:04:36+07:00,,,,1,invalid
+2026-11-18T08:06:06+07:00,,,,1,invalid
+2026-11-18T08:06:06+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-18T08:06:11+07:00,,,,1,invalid
+2026-11-18T08:09:10+07:00,,,,1,invalid
+2026-11-18T08:09:10+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-18T08:09:15+07:00,,,,1,invalid
+2026-11-18T08:33:17+07:00,,,,1,invalid
+2026-11-18T08:33:17+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-18T08:33:22+07:00,,,,1,invalid
+2026-11-18T09:25:46+07:00,,,,1,invalid
+2026-11-18T09:25:46+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-18T09:25:51+07:00,,,,1,invalid
+2026-11-18T13:43:35+07:00,,,,1,invalid
+2026-11-18T13:43:35+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-18T13:43:40+07:00,,,,1,invalid
+2026-11-18T16:16:46+07:00,,,,1,invalid
+2026-11-18T16:16:46+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-18T16:16:52+07:00,,,,1,invalid
+2026-11-18T16:39:42+07:00,,,,1,invalid
+2026-11-18T16:39:42+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-18T16:39:42+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-18T16:39:44+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-18T16:39:49+07:00,,,,1,invalid
+2026-11-18T17:00:35+07:00,,,,1,invalid
+2026-11-18T17:00:35+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:00:40+07:00,,,,1,invalid
+2026-11-18T17:00:53+07:00,,,,1,invalid
+2026-11-18T17:00:53+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:00:58+07:00,,,,1,invalid
+2026-11-18T17:01:57+07:00,,,,1,invalid
+2026-11-18T17:01:57+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:02:02+07:00,,,,1,invalid
+2026-11-18T17:02:15+07:00,,,,1,invalid
+2026-11-18T17:02:15+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:02:20+07:00,,,,1,invalid
+2026-11-18T17:03:40+07:00,,,,1,invalid
+2026-11-18T17:03:40+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:03:45+07:00,,,,1,invalid
+2026-11-18T17:06:20+07:00,,,,1,invalid
+2026-11-18T17:06:20+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:06:25+07:00,,,,1,invalid
+2026-11-18T17:06:52+07:00,,,,1,invalid
+2026-11-18T17:06:52+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:06:57+07:00,,,,1,invalid
+2026-11-18T17:08:37+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:08:38+07:00,,,,1,invalid
+2026-11-18T17:08:43+07:00,,,,1,invalid
+2026-11-18T17:08:45+07:00,,,,1,invalid
+2026-11-18T17:08:45+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:08:50+07:00,,,,1,invalid
+2026-11-18T17:11:03+07:00,,,,1,invalid
+2026-11-18T17:11:03+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:11:08+07:00,,,,1,invalid
+2026-11-18T17:11:10+07:00,,,,1,invalid
+2026-11-18T17:11:10+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:11:15+07:00,,,,1,invalid
+2026-11-18T17:15:58+07:00,,,,1,invalid
+2026-11-18T17:15:58+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:16:03+07:00,,,,1,invalid
+2026-11-18T17:19:04+07:00,,,,1,invalid
+2026-11-18T17:19:04+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:19:09+07:00,,,,1,invalid
+2026-11-18T17:47:54+07:00,,,,1,invalid
+2026-11-18T17:47:54+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:47:55+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-18T17:48:00+07:00,,,,1,invalid
+2026-11-18T18:29:35+07:00,,,,1,invalid
+2026-11-18T18:29:35+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-18T18:29:40+07:00,,,,1,invalid
+2026-11-18T18:46:01+07:00,,,,1,invalid
+2026-11-18T18:46:01+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-18T18:46:05+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-18T18:46:10+07:00,,,,1,invalid
+2026-11-18T19:11:29+07:00,,,,1,invalid
+2026-11-18T19:11:29+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-18T19:11:34+07:00,,,,1,invalid
+2026-11-18T19:40:12+07:00,,,,1,invalid
+2026-11-18T19:40:12+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-18T19:40:12+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-18T19:40:17+07:00,,,,1,invalid
+2026-11-18T22:10:22+07:00,,,,1,invalid
+2026-11-18T22:10:22+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-18T22:10:27+07:00,,,,1,invalid
+2026-11-19T06:26:28+07:00,,,,1,invalid
+2026-11-19T06:26:28+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-19T06:26:33+07:00,,,,1,invalid
+2026-11-19T07:10:16+07:00,,,,1,invalid
+2026-11-19T07:10:16+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:10:21+07:00,,,,1,invalid
+2026-11-19T07:26:42+07:00,,,,1,invalid
+2026-11-19T07:26:42+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:26:47+07:00,,,,1,invalid
+2026-11-19T07:37:11+07:00,,,,1,invalid
+2026-11-19T07:37:11+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:37:16+07:00,,,,1,invalid
+2026-11-19T07:50:03+07:00,,,,1,invalid
+2026-11-19T07:50:03+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:50:08+07:00,,,,1,invalid
+2026-11-19T07:52:14+07:00,,,,1,invalid
+2026-11-19T07:52:14+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:52:19+07:00,,,,1,invalid
+2026-11-19T07:52:19+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:52:21+07:00,,,,1,invalid
+2026-11-19T07:52:21+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:52:26+07:00,,,,1,invalid
+2026-11-19T07:53:46+07:00,,,,1,invalid
+2026-11-19T07:53:46+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:53:47+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:53:48+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:53:53+07:00,,,,1,invalid
+2026-11-19T07:59:08+07:00,,,,1,invalid
+2026-11-19T07:59:08+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:59:12+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:59:15+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-19T07:59:20+07:00,,,,1,invalid
+2026-11-19T08:01:27+07:00,,,,1,invalid
+2026-11-19T08:01:27+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-19T08:01:32+07:00,,,,1,invalid
+2026-11-19T08:03:22+07:00,,,,1,invalid
+2026-11-19T08:03:22+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-19T08:03:27+07:00,,,,1,invalid
+2026-11-19T08:07:42+07:00,,,,1,invalid
+2026-11-19T08:07:42+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-19T08:07:47+07:00,,,,1,invalid
+2026-11-19T08:09:22+07:00,,,,1,invalid
+2026-11-19T08:09:22+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-19T08:09:26+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-19T08:09:31+07:00,,,,1,invalid
+2026-11-19T08:10:45+07:00,,,,1,invalid
+2026-11-19T08:10:45+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-19T08:10:50+07:00,,,,1,invalid
+2026-11-19T08:14:05+07:00,,,,1,invalid
+2026-11-19T08:14:05+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-19T08:14:10+07:00,,,,1,invalid
+2026-11-19T08:45:59+07:00,,,,1,invalid
+2026-11-19T08:45:59+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-19T08:46:04+07:00,,,,1,invalid
+2026-11-19T08:48:15+07:00,,,,1,invalid
+2026-11-19T08:48:15+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-19T08:48:20+07:00,,,,1,invalid
+2026-11-19T09:48:08+07:00,,,,1,invalid
+2026-11-19T09:48:08+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-19T09:48:13+07:00,,,,1,invalid
+2026-11-19T09:48:29+07:00,,,,1,invalid
+2026-11-19T09:48:29+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-19T09:48:34+07:00,,,,1,invalid
+2026-11-19T15:06:03+07:00,,,,1,invalid
+2026-11-19T15:06:03+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-19T15:06:08+07:00,,,,1,invalid
+2026-11-19T16:18:27+07:00,,,,1,invalid
+2026-11-19T16:18:27+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-19T16:18:32+07:00,,,,1,invalid
+2026-11-19T16:18:35+07:00,,,,1,invalid
+2026-11-19T16:18:35+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-19T16:18:40+07:00,,,,1,invalid
+2026-11-19T17:00:54+07:00,,,,1,invalid
+2026-11-19T17:00:54+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:00:57+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:00:57+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:01:02+07:00,,,,1,invalid
+2026-11-19T17:01:04+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:01:07+07:00,,,,1,invalid
+2026-11-19T17:01:07+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:01:12+07:00,,,,1,invalid
+2026-11-19T17:01:15+07:00,,,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:01:17+07:00,,,,1,invalid
+2026-11-19T17:01:17+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:01:22+07:00,,,,1,invalid
+2026-11-19T17:01:28+07:00,,,,1,invalid
+2026-11-19T17:01:28+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:01:33+07:00,,,,1,invalid
+2026-11-19T17:05:01+07:00,,,,1,invalid
+2026-11-19T17:05:01+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:05:02+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:05:07+07:00,,,,1,invalid
+2026-11-19T17:05:36+07:00,,,,1,invalid
+2026-11-19T17:05:36+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:05:41+07:00,,,,1,invalid
+2026-11-19T17:05:58+07:00,,,,1,invalid
+2026-11-19T17:05:58+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:06:03+07:00,,,,1,invalid
+2026-11-19T17:07:03+07:00,,,,1,invalid
+2026-11-19T17:07:03+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:07:08+07:00,,,,1,invalid
+2026-11-19T17:08:43+07:00,,,,1,invalid
+2026-11-19T17:08:43+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:08:48+07:00,,,,1,invalid
+2026-11-19T17:13:16+07:00,,,,1,invalid
+2026-11-19T17:13:16+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:13:21+07:00,,,,1,invalid
+2026-11-19T17:14:02+07:00,,,,1,invalid
+2026-11-19T17:14:02+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:14:07+07:00,,,,1,invalid
+2026-11-19T17:18:34+07:00,,,,1,invalid
+2026-11-19T17:18:34+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:18:39+07:00,,,,1,invalid
+2026-11-19T17:18:58+07:00,,,,1,invalid
+2026-11-19T17:18:58+07:00,28,Phạm Chung Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:19:03+07:00,,,,1,invalid
+2026-11-19T17:19:21+07:00,,,,1,invalid
+2026-11-19T17:19:21+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:19:26+07:00,,,,1,invalid
+2026-11-19T17:19:49+07:00,,,,1,invalid
+2026-11-19T17:19:49+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:19:54+07:00,,,,1,invalid
+2026-11-19T17:24:54+07:00,,,,1,invalid
+2026-11-19T17:24:54+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:24:58+07:00,16,Nguyễn Hải Anh,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:25:03+07:00,,,,1,invalid
+2026-11-19T17:30:40+07:00,,,,1,invalid
+2026-11-19T17:30:40+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-19T17:30:45+07:00,,,,1,invalid
+2026-11-19T18:24:26+07:00,,,,1,invalid
+2026-11-19T18:24:26+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-19T18:24:31+07:00,,,,1,invalid
+2026-11-19T18:26:43+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-19T18:26:44+07:00,,,,1,invalid
+2026-11-19T18:26:45+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-19T18:26:50+07:00,,,,1,invalid
+2026-11-19T18:46:29+07:00,,,,1,invalid
+2026-11-19T18:46:29+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-19T18:46:34+07:00,,,,1,invalid
+2026-11-20T06:34:02+07:00,,,,1,invalid
+2026-11-20T06:34:02+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-20T06:34:07+07:00,,,,1,invalid
+2026-11-20T07:27:25+07:00,,,,1,invalid
+2026-11-20T07:27:25+07:00,25,Nguyễn Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:27:30+07:00,,,,1,invalid
+2026-11-20T07:39:14+07:00,,,,1,invalid
+2026-11-20T07:39:14+07:00,15,Nguyễn Văn Cường,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:39:19+07:00,,,,1,invalid
+2026-11-20T07:42:40+07:00,,,,1,invalid
+2026-11-20T07:42:40+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:42:45+07:00,,,,1,invalid
+2026-11-20T07:43:06+07:00,,,,1,invalid
+2026-11-20T07:43:06+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:43:08+07:00,2,Phạm Thùy Dương,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:43:13+07:00,,,,1,invalid
+2026-11-20T07:44:12+07:00,,,,1,invalid
+2026-11-20T07:44:12+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:44:15+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:44:20+07:00,,,,1,invalid
+2026-11-20T07:47:09+07:00,,,,1,invalid
+2026-11-20T07:47:09+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:47:14+07:00,,,,1,invalid
+2026-11-20T07:55:36+07:00,,,,1,invalid
+2026-11-20T07:55:36+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:55:41+07:00,,,,1,invalid
+2026-11-20T07:56:54+07:00,,,,1,invalid
+2026-11-20T07:56:54+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:56:59+07:00,,,,1,invalid
+2026-11-20T07:57:05+07:00,,,,1,invalid
+2026-11-20T07:57:05+07:00,24,Đặng Chiến Công,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:57:10+07:00,,,,1,invalid
+2026-11-20T07:57:37+07:00,,,,1,invalid
+2026-11-20T07:57:37+07:00,14,Nguyễn Thị Thủy,1,1,faceOrFpOrCardOrPw
+2026-11-20T07:57:42+07:00,,,,1,invalid
+2026-11-20T08:00:12+07:00,,,,1,invalid
+2026-11-20T08:00:12+07:00,12,Trần Hồng Sơn,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:00:17+07:00,,,,1,invalid
+2026-11-20T08:00:56+07:00,,,,1,invalid
+2026-11-20T08:00:56+07:00,8,Bùi Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:01:01+07:00,,,,1,invalid
+2026-11-20T08:01:02+07:00,,,,1,invalid
+2026-11-20T08:01:02+07:00,10,Nguyễn Thị Hương,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:01:07+07:00,,,,1,invalid
+2026-11-20T08:05:23+07:00,,,,1,invalid
+2026-11-20T08:05:23+07:00,4,Trần Minh Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:05:28+07:00,,,,1,invalid
+2026-11-20T08:05:37+07:00,,,,1,invalid
+2026-11-20T08:05:37+07:00,19,Chu Thị Thắm,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:05:42+07:00,,,,1,invalid
+2026-11-20T08:05:48+07:00,,,,1,invalid
+2026-11-20T08:05:48+07:00,1,Nguyễn Văn Ngọc,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:05:53+07:00,,,,1,invalid
+2026-11-20T08:08:42+07:00,,,,1,invalid
+2026-11-20T08:08:42+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:08:46+07:00,17,Nguyễn Đình Quynh,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:08:51+07:00,,,,1,invalid
+2026-11-20T08:15:34+07:00,,,,1,invalid
+2026-11-20T08:15:34+07:00,22,Lương Thị Thu Hà,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:15:39+07:00,,,,1,invalid
+2026-11-20T08:23:42+07:00,,,,1,invalid
+2026-11-20T08:23:42+07:00,9,Nguyễn Ngọc Anh,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:23:47+07:00,,,,1,invalid
+2026-11-20T08:27:01+07:00,,,,1,invalid
+2026-11-20T08:27:01+07:00,20,Võ Trọng Khánh,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:27:05+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-20T08:27:10+07:00,,,,1,invalid
+2026-11-20T09:51:29+07:00,,,,1,invalid
+2026-11-20T09:51:29+07:00,13,Nguyễn Quý Thành Trung,1,1,faceOrFpOrCardOrPw
+2026-11-20T09:51:34+07:00,,,,1,invalid
+2026-11-20T09:51:41+07:00,,,,1,invalid
+2026-11-20T09:51:41+07:00,27,Mai Quang Trung,1,1,faceOrFpOrCardOrPw
+2026-11-20T09:51:46+07:00,,,,1,invalid
+2026-11-20T12:01:18+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-20T12:01:19+07:00,,,,1,invalid
+2026-11-20T12:01:24+07:00,,,,1,invalid
+2026-11-20T14:19:00+07:00,,,,1,invalid
+2026-11-20T14:19:00+07:00,31,Vương Huyền Linh,1,1,faceOrFpOrCardOrPw
+2026-11-20T14:19:05+07:00,,,,1,invalid
+2026-11-20T15:28:23+07:00,,,,1,invalid
+2026-11-20T15:28:23+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-20T15:28:28+07:00,,,,1,invalid
+2026-11-20T15:51:42+07:00,,,,1,invalid
+2026-11-20T15:51:42+07:00,23,Phạm Quý Dương,1,1,faceOrFpOrCardOrPw
+2026-11-20T15:51:47+07:00,,,,1,invalid
+2026-11-20T16:00:23+07:00,,,,,invalid
+2026-11-20T16:00:24+07:00,,,,,invalid
+2026-11-20T16:13:07+07:00,,,,1,invalid
+2026-11-20T16:13:07+07:00,29,Phạm Duy Hiếu,1,1,faceOrFpOrCardOrPw
+2026-11-20T16:13:12+07:00,,,,1,invalid
+2026-11-20T16:23:55+07:00,,,,1,invalid
+2026-11-20T16:23:55+07:00,3,Đặng Thị Hằng,1,1,faceOrFpOrCardOrPw
+2026-11-20T16:24:00+07:00,,,,1,invalid
+2026-11-20T17:02:46+07:00,,,,1,invalid
+2026-11-20T17:02:46+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-20T17:02:48+07:00,26,Nguyễn Thanh Tùng,1,1,faceOrFpOrCardOrPw
+2026-11-20T17:02:53+07:00,,,,1,invalid
+2026-11-20T17:04:49+07:00,,,,1,invalid
+2026-11-20T17:04:49+07:00,7,Nguyễn Ngọc Tĩnh,1,1,faceOrFpOrCardOrPw
+2026-11-20T17:04:54+07:00,,,,1,invalid
