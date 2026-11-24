@@ -1,5 +1,10 @@
 ﻿param([switch]$KiemTra)
 
+# Dien thong tin API mot lan tai day, giu dau nhay don.
+$deviceUrl = 'http://DIA_CHI_MAY/ISAPI/AccessControl/AcsEvent?format=json'
+$username = 'Dien ten dang nhap'
+$password = 'Dien mat khau'
+
 $ErrorActionPreference = 'Stop'
 $utf8Bom = New-Object System.Text.UTF8Encoding $true
 $utf8 = New-Object System.Text.UTF8Encoding $false
@@ -41,27 +46,15 @@ if ($KiemTra) {
     return
 }
 
-$connectionPath = Join-Path $PSScriptRoot 'ket_noi.local.json'
-$credentialPath = Join-Path $PSScriptRoot 'tai_khoan.local.xml'
-if (-not (Test-Path -LiteralPath $connectionPath)) {
-    throw 'Hay sao chep ket_noi.example.json thanh ket_noi.local.json va nhap dia chi may, ten dang nhap.'
+if ($deviceUrl -match 'DIA_CHI_MAY' -or $username -eq 'Dien ten dang nhap' -or $password -eq 'Dien mat khau' -or
+    [string]::IsNullOrWhiteSpace($username) -or [string]::IsNullOrWhiteSpace($password)) {
+    throw 'Hay dien deviceUrl, username va password o dau file lay_cong.ps1.'
 }
-$connection = Get-Content -LiteralPath $connectionPath -Raw -Encoding UTF8 | ConvertFrom-Json
 $endpoint = $null
-if (-not [uri]::TryCreate([string]$connection.url, [UriKind]::Absolute, [ref]$endpoint) -or $endpoint.Scheme -notin @('http', 'https') -or $endpoint.UserInfo) {
+if (-not [uri]::TryCreate($deviceUrl, [UriKind]::Absolute, [ref]$endpoint) -or $endpoint.Scheme -notin @('http', 'https') -or $endpoint.UserInfo) {
     throw 'URL may khong hop le. Khong dat tai khoan/mat khau trong URL.'
 }
-if ([string]::IsNullOrWhiteSpace([string]$connection.username)) { throw 'Thieu username trong ket_noi.local.json.' }
-$saveCredential = -not (Test-Path -LiteralPath $credentialPath)
-if ($saveCredential) {
-    $credential = Get-Credential -UserName $connection.username -Message 'Tai khoan may cham cong (luu ma hoa rieng cho Windows user nay)'
-} else {
-    $credential = Import-Clixml -LiteralPath $credentialPath
-}
-if ($credential -isnot [System.Management.Automation.PSCredential] -or $credential.UserName -ne $connection.username) {
-    throw 'Tai khoan luu khong khop username. Xoa tai_khoan.local.xml va chay lai.'
-}
-$curlLogin = '{0}:{1}' -f $credential.UserName, $credential.GetNetworkCredential().Password
+$curlLogin = '{0}:{1}' -f $username, $password
 
 $runId = [guid]::NewGuid().ToString('N')
 $requestPath = Join-Path ([IO.Path]::GetTempPath()) "chamcong_request_$runId.json"
@@ -87,7 +80,7 @@ try {
         $request = @{ AcsEventCond = $pageCondition } | ConvertTo-Json -Depth 15
         [IO.File]::WriteAllText($requestPath, $request, $utf8)
 
-        & curl.exe --silent --show-error --fail --connect-timeout 15 --max-time 120 --digest --user $curlLogin -H "Content-Type: application/json" --data-binary "@$requestPath" --output $responsePath $connection.url
+        & curl.exe --silent --show-error --fail --connect-timeout 15 --max-time 120 --digest --user $curlLogin -H "Content-Type: application/json" --data-binary "@$requestPath" --output $responsePath $deviceUrl
         if ($LASTEXITCODE -ne 0) {
             throw 'Khong tai duoc du lieu tu may cham cong. CSV chua duoc cap nhat.'
         }
@@ -135,7 +128,6 @@ try {
     } else {
         [IO.File]::Move($csvPath, $outputPath)
     }
-    if ($saveCredential) { $credential | Export-Clixml -LiteralPath $credentialPath }
     Write-Host "Hoan thanh: $filename. So su kien: $($events.Count)."
 } finally {
     foreach ($temporary in @($requestPath, $responsePath, $csvPath)) {

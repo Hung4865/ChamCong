@@ -26,15 +26,19 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\lay_cong.ps1
 
 3. CSV RAW được lưu ngay trong `D:\Cuc\cham cong v3`. Mở chương trình báo cáo ở thư mục `cham-cong`, chọn CSV này và file xin nghỉ để xuất báo cáo.
 
-### Chỉ khi dùng bản tải mới từ GitHub: thiết lập kết nối một lần
+### Bản tải mới từ GitHub: điền tài khoản trực tiếp trong script
 
-Bản `lay_cong.ps1` trong repo đã được tách thông tin đăng nhập khỏi mã nguồn trước khi đưa lên GitHub. Vì vậy, nếu chạy bản vừa tải về, cần khai báo máy chấm công và tài khoản một lần. Việc sao chép dưới đây chỉ tạo file cấu hình riêng cho bản tải mới, không phải thao tác hằng tháng.
+Mở `lay_cong.ps1` bằng Notepad. Ngay đầu file có ba dòng:
 
-1. Sao chép `ket_noi.example.json` thành `ket_noi.local.json` trong cùng thư mục với `lay_cong.ps1`.
-2. Sửa `url` thành địa chỉ thật của máy, giữ đường dẫn `/ISAPI/AccessControl/AcsEvent?format=json`. Sửa `username` thành tên đăng nhập. Không ghi mật khẩu trong JSON.
-3. Lần tải đầu, PowerShell hỏi mật khẩu. Sau khi tải thành công, tài khoản được lưu mã hóa trong `tai_khoan.local.xml`, chỉ dùng được với tài khoản Windows và máy đã lưu. Khi đổi mật khẩu hoặc tài khoản, xóa file XML này rồi chạy lại.
+```powershell
+$deviceUrl = 'http://DIA_CHI_MAY/ISAPI/AccessControl/AcsEvent?format=json'
+$username = 'Dien ten dang nhap'
+$password = 'Dien mat khau'
+```
 
-Hai file `ket_noi.local.json`, `tai_khoan.local.xml` đã được bỏ qua trong `.gitignore`, không đưa lên GitHub. Sau khi thiết lập xong, các tháng tiếp theo chỉ sửa ngày trong `dieu_kien.json` và chạy script.
+Thay địa chỉ API, tên đăng nhập và mật khẩu bằng thông tin bạn đã biết, giữ dấu nháy đơn, rồi lưu file. Nếu mật khẩu có ký tự nháy đơn, viết hai dấu liên tiếp, ví dụ `ab'cd` viết thành `'ab''cd'`. Không cần sao chép thêm file hoặc nhập mật khẩu mỗi lần chạy. Các tháng sau chỉ sửa ngày trong `dieu_kien.json`.
+
+Bản trên GitHub chỉ chứa chữ `Dien mat khau`. Giữ mật khẩu thật trong bản dùng trên máy, không commit/push dòng đã điền mật khẩu lên GitHub.
 
 ### Mỗi tháng chỉ sửa kỳ trong dieu_kien.json
 
@@ -91,7 +95,6 @@ Quy tắc chính: thứ Bảy/Chủ nhật không tính vắng; chọn lượt s
 | File/thư mục | Vai trò |
 |---|---|
 | `lay_cong.ps1`, `dieu_kien.json` | Tải RAW theo kỳ |
-| `ket_noi.example.json` | Mẫu cấu hình kết nối, sao chép thành file local để sử dụng |
 | `Mo_chuong_trinh.cmd` | Nút mở chương trình báo cáo |
 | `monthly_report.py` | Giao diện, ghép dữ liệu và xuất hai báo cáo |
 | `attendance_report.py`, `summarize_attendance.py` | Các hàm dùng chung, không được xóa |
