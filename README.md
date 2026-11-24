@@ -97,8 +97,3 @@ Thư mục `ket_qua/test thang 11` chứa hai file đầu vào đã cung cấp:
 
 Chọn tháng báo cáo `2026-11`, kỳ `25-24` để kiểm tra khoảng **25/10/2026–24/11/2026**. Đây là kỳ trong tên tệp; cần kiểm tra mức bao phủ dữ liệu thực tế trước khi chốt báo cáo.
 
-## Kiểm tra quy tắc
-
-```powershell
-python -B -m unittest discover -s . -p test_monthly_report.py
-```
