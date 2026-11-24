@@ -12,13 +12,29 @@ Máy cần PowerShell và `curl.exe` để lấy RAW. Kết nối cùng mạng v
 
 ## 2. Lấy dữ liệu RAW từ máy chấm công
 
-### Thiết lập kết nối lần đầu
+### Máy đang sử dụng: chạy như trước, không cần sao chép file
+
+Bộ lấy RAW đang chạy được tại `D:\Cuc\cham cong v3` đã có thông tin kết nối. Bạn không cần tạo thêm `ket_noi.local.json` hoặc nhập lại tài khoản cho bộ này.
+
+1. Mở `D:\Cuc\cham cong v3\dieu_kien.json`, sửa `startTime` và `endTime`, rồi lưu.
+2. Mở PowerShell và chạy:
+
+```powershell
+Set-Location 'D:\Cuc\cham cong v3'
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\lay_cong.ps1
+```
+
+3. CSV RAW được lưu ngay trong `D:\Cuc\cham cong v3`. Mở chương trình báo cáo ở thư mục `cham-cong`, chọn CSV này và file xin nghỉ để xuất báo cáo.
+
+### Chỉ khi dùng bản tải mới từ GitHub: thiết lập kết nối một lần
+
+Bản `lay_cong.ps1` trong repo đã được tách thông tin đăng nhập khỏi mã nguồn trước khi đưa lên GitHub. Vì vậy, nếu chạy bản vừa tải về, cần khai báo máy chấm công và tài khoản một lần. Việc sao chép dưới đây chỉ tạo file cấu hình riêng cho bản tải mới, không phải thao tác hằng tháng.
 
 1. Sao chép `ket_noi.example.json` thành `ket_noi.local.json` trong cùng thư mục với `lay_cong.ps1`.
 2. Sửa `url` thành địa chỉ thật của máy, giữ đường dẫn `/ISAPI/AccessControl/AcsEvent?format=json`. Sửa `username` thành tên đăng nhập. Không ghi mật khẩu trong JSON.
 3. Lần tải đầu, PowerShell hỏi mật khẩu. Sau khi tải thành công, tài khoản được lưu mã hóa trong `tai_khoan.local.xml`, chỉ dùng được với tài khoản Windows và máy đã lưu. Khi đổi mật khẩu hoặc tài khoản, xóa file XML này rồi chạy lại.
 
-Hai file `ket_noi.local.json`, `tai_khoan.local.xml` đã được bỏ qua trong `.gitignore`, không đưa lên GitHub. Cấu hình kết nối của bộ lấy RAW cũ không bị thay đổi; bản trong repo cần thiết lập lần đầu như trên.
+Hai file `ket_noi.local.json`, `tai_khoan.local.xml` đã được bỏ qua trong `.gitignore`, không đưa lên GitHub. Sau khi thiết lập xong, các tháng tiếp theo chỉ sửa ngày trong `dieu_kien.json` và chạy script.
 
 ### Mỗi tháng chỉ sửa kỳ trong dieu_kien.json
 
@@ -31,7 +47,7 @@ Ví dụ kỳ tháng 11/2026, tính cả ngày đầu và ngày cuối:
 
 Giữ nguyên các trường còn lại. Script tự phân trang từ vị trí 0 và không ghi đè ngày đã sửa trong `dieu_kien.json`.
 
-Mở PowerShell tại thư mục chương trình. Kiểm tra ngày mà chưa kết nối máy:
+Mở PowerShell tại thư mục chứa `lay_cong.ps1` mà bạn đang dùng. File `dieu_kien.json` cần sửa là file nằm cùng thư mục với script đó. Kiểm tra ngày mà chưa kết nối máy:
 
 ```powershell
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\lay_cong.ps1 -KiemTra
