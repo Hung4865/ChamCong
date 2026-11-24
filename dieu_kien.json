@@ -1,0 +1,11 @@
+{
+  "AcsEventCond": {
+    "startTime": "2026-10-25T00:00:00+07:00",
+    "endTime": "2026-11-24T23:59:59+07:00",
+    "maxResults": 1000,
+    "major": 0,
+    "minor": 0,
+    "searchResultPosition": 0,
+    "searchID": "1"
+  }
+}

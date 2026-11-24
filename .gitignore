@@ -4,6 +4,9 @@ __pycache__/
 venv/
 .env
 .env.*
+*.local.json
+*.local.xml
+.chamcong_*.tmp
 ~$*
 
 # Historical local reports; keep only the requested November test inputs.
