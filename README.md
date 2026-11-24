@@ -43,12 +43,6 @@ Giữ nguyên các trường còn lại. Script tự phân trang từ vị trí 
 
 Nếu muốn chạy bằng lệnh: mở thư mục chứa chương trình trong File Explorer, gõ `powershell` vào thanh địa chỉ rồi nhấn Enter. Cửa sổ PowerShell sẽ mở đúng thư mục; không cần lệnh `Set-Location`.
 
-Kiểm tra ngày mà chưa kết nối máy:
-
-```powershell
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\lay_cong.ps1 -KiemTra
-```
-
 Tải RAW:
 
 ```powershell
