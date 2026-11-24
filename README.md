@@ -4,7 +4,7 @@ Chương trình nhận dữ liệu chấm công RAW (`.csv` hoặc `.xlsx`) và 
 
 ## 1. Cài đặt trên Windows
 
-1. Cài Python 3.10 trở lên.
+1. Tải repo bằng **Code → Download ZIP**, giải nén vào thư mục bất kỳ trên máy. Cài Python 3.10 trở lên.
 2. Chạy `python -m pip install -r requirements.txt` trong thư mục chương trình.
 3. Giữ nguyên cả thư mục tải về. File `Mo_chuong_trinh.cmd` gọi `monthly_report.py`; hai file `attendance_report.py`, `summarize_attendance.py` và thư mục `cau_hinh` cũng phải có để chạy.
 
@@ -12,19 +12,7 @@ Máy cần PowerShell và `curl.exe` để lấy RAW. Kết nối cùng mạng v
 
 ## 2. Lấy dữ liệu RAW từ máy chấm công
 
-### Máy đang sử dụng: chạy như trước, không cần sao chép file
-
-Bộ lấy RAW đang chạy được tại `D:\Cuc\cham cong v3` đã có thông tin kết nối. Bạn không cần tạo thêm `ket_noi.local.json` hoặc nhập lại tài khoản cho bộ này.
-
-1. Mở `D:\Cuc\cham cong v3\dieu_kien.json`, sửa `startTime` và `endTime`, rồi lưu.
-2. Mở PowerShell và chạy:
-
-```powershell
-Set-Location 'D:\Cuc\cham cong v3'
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\lay_cong.ps1
-```
-
-3. CSV RAW được lưu ngay trong `D:\Cuc\cham cong v3`. Mở chương trình báo cáo ở thư mục `cham-cong`, chọn CSV này và file xin nghỉ để xuất báo cáo.
+Giải nén chương trình ở đâu cũng được. Các file `Lay_RAW.cmd`, `lay_cong.ps1` và `dieu_kien.json` cần nằm cùng thư mục. Không cần tạo ổ D hoặc thư mục giống máy của người khác.
 
 ### Bản tải mới từ GitHub: điền tài khoản trực tiếp trong script
 
@@ -51,7 +39,11 @@ Ví dụ kỳ tháng 11/2026, tính cả ngày đầu và ngày cuối:
 
 Giữ nguyên các trường còn lại. Script tự phân trang từ vị trí 0 và không ghi đè ngày đã sửa trong `dieu_kien.json`.
 
-Mở PowerShell tại thư mục chứa `lay_cong.ps1` mà bạn đang dùng. File `dieu_kien.json` cần sửa là file nằm cùng thư mục với script đó. Kiểm tra ngày mà chưa kết nối máy:
+**Cách chạy đơn giản:** lưu `dieu_kien.json` rồi bấm đúp **`Lay_RAW.cmd`**. File này tự tìm script trong cùng thư mục, không cần gõ đường dẫn. CSV RAW được lưu ngay tại thư mục đó.
+
+Nếu muốn chạy bằng lệnh: mở thư mục chứa chương trình trong File Explorer, gõ `powershell` vào thanh địa chỉ rồi nhấn Enter. Cửa sổ PowerShell sẽ mở đúng thư mục; không cần lệnh `Set-Location`.
+
+Kiểm tra ngày mà chưa kết nối máy:
 
 ```powershell
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\lay_cong.ps1 -KiemTra
@@ -95,6 +87,7 @@ Quy tắc chính: thứ Bảy/Chủ nhật không tính vắng; chọn lượt s
 | File/thư mục | Vai trò |
 |---|---|
 | `lay_cong.ps1`, `dieu_kien.json` | Tải RAW theo kỳ |
+| `Lay_RAW.cmd` | Bấm đúp để lấy RAW, tự tìm script trong cùng thư mục |
 | `Mo_chuong_trinh.cmd` | Nút mở chương trình báo cáo |
 | `monthly_report.py` | Giao diện, ghép dữ liệu và xuất hai báo cáo |
 | `attendance_report.py`, `summarize_attendance.py` | Các hàm dùng chung, không được xóa |
