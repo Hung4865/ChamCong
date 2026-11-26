@@ -60,8 +60,9 @@ Tải bảng phản hồi Google Form về Excel `.xlsx` hoặc CSV. Giữ các 
 1. Mở `Mo_chuong_trinh.cmd`.
 2. Chọn RAW vừa tải và file xin nghỉ Google Form.
 3. Nhập tháng báo cáo, ví dụ `2026-11`, chọn kỳ `25-24`. Kiểm tra hai ô ngày là `2026-10-25` và `2026-11-24`. Chọn `calendar` nếu cần tháng dương lịch.
-4. Chọn thư mục kết quả và bấm **Tạo báo cáo**.
-5. Kiểm tra trang `CanKiemTra`, sửa các mục lỗi nguồn rồi chạy lại trước khi chốt.
+4. Ở mục **Ngày nghỉ lễ**, bấm **Chọn ngày…**. Bấm các ngày nghỉ trên lịch (có thể chọn nhiều ngày), rồi bấm **Áp dụng**. Dùng mũi tên để chuyển tháng trong kỳ; bấm lại ngày để bỏ chọn, hoặc **Bỏ chọn tất cả** nếu kỳ không có ngày lễ. **Hủy** giữ nguyên lựa chọn trước đó.
+5. Chọn thư mục kết quả và bấm **Tạo báo cáo**. Ngày đã chọn hiện **Nghỉ lễ** trong ChiTiet và không tính vào ngày làm việc, vắng có lý do, thiếu lượt hay thực hiện chưa đúng. Lựa chọn áp dụng cho lần xuất này; không sửa cấu hình dùng chung. Khi đổi kỳ, kiểm tra lại danh sách ngày nghỉ lễ (được nạp từ cấu hình trong kỳ mới).
+6. Kiểm tra trang `CanKiemTra`, sửa các mục lỗi nguồn rồi chạy lại trước khi chốt.
 
 Hai file kết quả:
 

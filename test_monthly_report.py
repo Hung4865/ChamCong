@@ -63,6 +63,40 @@ class AttendanceRulesTest(unittest.TestCase):
         self.assertEqual(results["1"], [0] * 7)
         self.assertEqual(detail[0][12], "Nghỉ cuối tuần")
 
+    def test_generate_uses_explicit_holidays_without_changing_config(self):
+        before = report.CONFIG.read_bytes()
+        day = date(2026, 11, 24)
+        with tempfile.TemporaryDirectory() as directory:
+            folder = Path(directory)
+            raw, form = folder / "raw.csv", folder / "form.csv"
+            raw.write_text(
+                'time,employeeNoString,name,currentVerifyMode\n'
+                '2026-11-24T07:30:00+07:00,25,Nguyễn Thị Thắm,face\n'
+                '2026-11-24T17:01:00+07:00,25,Nguyễn Thị Thắm,face\n', encoding="utf-8-sig")
+            form.write_text('Họ và tên,Vắng từ ngày,Loại thông báo\n', encoding="utf-8-sig")
+            work, _ = report.generate(raw, form, day, day, folder / "TongHop_Work.xlsx", holidays=set())
+            off, issues = report.generate(raw, form, day, day, folder / "TongHop_Off.xlsx", holidays={day})
+            self.assertEqual(work["25"][:5], [1, 1, 0, 1, 1])
+            self.assertEqual(off["25"], [0] * 7)
+            self.assertEqual(issues, [])
+            book = load_workbook(folder / "ChiTiet_Off.xlsx")
+            self.assertEqual(book["Sheet1"]["B15"].value, "Nghỉ lễ")
+            self.assertEqual(book["Sheet1"]["B8"].value, time(7, 30))
+            book.close()
+            with self.assertRaisesRegex(ValueError, "trong kỳ"):
+                report.generate(raw, form, day, day, folder / "Invalid.xlsx", holidays={date(2026, 11, 25)})
+        self.assertEqual(report.CONFIG.read_bytes(), before)
+
+    def test_holiday_has_explicit_label_and_does_not_count_leave_or_missing(self):
+        employee = report.base.Employee("1", "A", "Phòng")
+        day = date(2026, 11, 24)
+        self.rules["holidays"] = {day}
+        results, detail = report.compute({"1": employee}, {}, {("1", day): [self.notice("ca_ngay")]},
+                                         self.rules, day, day)
+        self.assertEqual(results["1"], [0] * 7)
+        self.assertEqual(detail[0][12], "Ngày nghỉ lễ theo lịch đơn vị")
+        self.assertEqual(report.detailed_day(detail[0], [], self.rules)[-1], "Nghỉ lễ")
+
     def test_detail_preserves_early_scan_partial_leave_and_excludes_weekend(self):
         employees = {"1": report.base.Employee("1", "Nhân viên A", "Phòng")}
         start, end = date(2026, 10, 1), date(2026, 10, 3)

@@ -445,7 +445,7 @@ def compute(employees, punches, notices, rules, start, end):
             if workday:
                 total.update(D=1, E=paired, F=full, G=good, H=credited, I=missing)
             else:
-                status = "Nghỉ cuối tuần" if day.weekday() not in rules["workdays"] else "Ngày nghỉ cấu hình"
+                status = "Ngày nghỉ lễ theo lịch đơn vị" if day in rules["holidays"] else "Nghỉ cuối tuần"
             detail.append([
                 identity, employee.name, employee.department, day, int(workday), incoming, outgoing,
                 paired if workday else 0, full if workday else 0, good if workday else 0,
@@ -471,7 +471,7 @@ def detail_output_path(summary):
 def detailed_day(row, notices, rules):
     incoming, outgoing = row[5], row[6]
     if not row[4]:
-        return incoming or "-", outgoing or "-", 0, 0, 0, "#"
+        return incoming or "-", outgoing or "-", 0, 0, 0, "Nghỉ lễ" if row[3] in rules["holidays"] else "#"
     morning_excused, afternoon_excused, latest, earliest = attendance_limits(notices, rules)
     late_seconds = base.minutes_between(latest, incoming) * 60 if incoming and not morning_excused and not row[8] else 0
     early_seconds = base.minutes_between(outgoing, earliest) * 60 if outgoing and not afternoon_excused and not row[8] else 0
@@ -514,7 +514,7 @@ def export_detail(out, raw, form, start, end, employees, detail, notices, issues
         base.write_row(sheet, 4, [f"Từ: {days[0]} 00:00:00 Đến: {days[-1]} 23:59:59"], [32], bold=True, center=True)
         base.write_row(sheet, 5, [
             "P = nghỉ phép, CT = công tác, Đh = đi học, Họp = dự họp, DHt = hội thảo, Ld = lý do khác. "
-            "(S) = sáng, (C) = chiều, (G) = theo giờ. # = ngày nghỉ. A = thiếu lượt cần thiết. "
+            "(S) = sáng, (C) = chiều, (G) = theo giờ. # = nghỉ cuối tuần. Nghỉ lễ = ngày nghỉ theo lịch đơn vị. A = thiếu lượt cần thiết. "
             f"Có {len(issues)} mục cần kiểm tra nguồn."
         ], [32], wrap=True)
         sheet.row_dimensions[5].height = 30
@@ -582,6 +582,7 @@ def export_detail(out, raw, form, start, end, employees, detail, notices, issues
     legacy.add_table(book, "Nguon", ["Nội dung", "Giá trị"], [
         ["RAW", str(raw.resolve())], ["Form", str(form.resolve())],
         ["Kỳ", f"{start} đến {end}"],
+        ["Ngày nghỉ lễ trong kỳ", ", ".join(f"{day:%d/%m/%Y}" for day in sorted(rules["holidays"]) if start <= day <= end) or "Không có"],
         ["Quy tắc", "Cùng dữ liệu và kết quả ngày với báo cáo tổng hợp xuất kèm."],
     ], [35, 120])
     with base.staged_file(out) as temporary:
@@ -599,6 +600,7 @@ def export_report(out, raw, form, start, end, employees, results, detail, issues
     sheet.delete_rows(5, max(0, sheet.max_row - 4))
     sheet["B2"] = f"BÁO CÁO TỔNG HỢP CHẤM CÔNG TỪ {start:%d/%m/%Y} ĐẾN {end:%d/%m/%Y}"
     sheet["A3"] = (
+        "Ngày nghỉ lễ trong kỳ: " + (", ".join(f"{day:%d/%m/%Y}" for day in sorted(rules["holidays"]) if start <= day <= end) or "Không có") + ". Không tính vào D–J. "
         f"Chọn lượt sáng sớm nhất trước {rules['morning_cutoff']} và lượt chiều muộn nhất. "
         f"Đúng giờ thực tế khi vào ≤{rules['latest_in']}, ra ≥{rules['earliest_out']}. "
         "F chỉ tính vắng cả ngày. Vắng một buổi/theo giờ tính 0 ở F. "
@@ -661,6 +663,8 @@ def export_report(out, raw, form, start, end, employees, results, detail, issues
         ["Ngày vắng", "Chỉ thông báo cả ngày tính 1. Hai thông báo sáng và chiều không tự cộng thành 1 ở F."],
         ["Duyệt Form", "Nếu có cột Trạng thái duyệt, chỉ áp dụng mục đã duyệt. Nếu không có cột này, áp dụng phản hồi ghép được và ghi rõ nguồn."],
         ["Cấu hình", json.dumps({k: str(v) for k, v in rules.items() if k not in ("date_corrections",)}, ensure_ascii=False)],
+        ["Điều chỉnh Form đã xác nhận", json.dumps(rules.get("date_corrections", {}).get(
+            hashlib.sha256(form.read_bytes()).hexdigest(), {}), ensure_ascii=False)],
         *[[key, value] for key, value in stats.items()],
     ]
     legacy.add_table(book, "NguonQuyTac", ["Nội dung", "Giá trị"], info, [40, 120])
@@ -674,10 +678,14 @@ def export_report(out, raw, form, start, end, employees, results, detail, issues
     book.close()
 
 
-def generate(raw, form, start, end, out, config=CONFIG):
+def generate(raw, form, start, end, out, config=CONFIG, holidays=None):
     if start > end:
         raise ValueError("Ngày bắt đầu phải trước hoặc bằng ngày kết thúc.")
     rules, employees = load_setup(config)
+    if holidays is not None:
+        rules["holidays"] = set(holidays)
+        if any(type(day) is not date or not start <= day <= end for day in rules["holidays"]):
+            raise ValueError("Ngày nghỉ lễ phải là ngày hợp lệ nằm trong kỳ báo cáo.")
     stats, clock_issues = Counter(), []
     dates, punches, unknown = load_raw(raw, employees, stats, clock_issues)
     if not any(start <= day <= end for day in dates):
@@ -739,6 +747,88 @@ def suggest_month(mode):
     return current.strftime("%Y-%m")
 
 
+def choose_holidays(parent, start, end, selected, on_apply):
+    """Chọn nhiều ngày trực tiếp trên lịch, chỉ thay đổi khi bấm Áp dụng."""
+    import tkinter as tk
+    from tkinter import ttk
+
+    dialog = tk.Toplevel(parent)
+    dialog.title("Chọn ngày nghỉ lễ")
+    dialog.transient(parent)
+    dialog.resizable(False, False)
+    frame = ttk.Frame(dialog, padding=16)
+    frame.pack(fill="both", expand=True)
+    ttk.Label(frame, text=f"Kỳ báo cáo: {start:%d/%m/%Y} – {end:%d/%m/%Y}").pack(anchor="w")
+    ttk.Label(frame, text="Bấm ngày để chọn hoặc bỏ chọn. Ngày được chọn có dấu ✓.").pack(anchor="w", pady=(4, 12))
+    pending = {day for day in selected if start <= day <= end}
+    month = [start.replace(day=1)]
+    navigation = ttk.Frame(frame)
+    navigation.pack(fill="x")
+    title = tk.StringVar()
+    grid = ttk.Frame(frame)
+    grid.pack(pady=10)
+    summary = tk.StringVar()
+    ttk.Label(frame, textvariable=summary, wraplength=450).pack(anchor="w", pady=(0, 10))
+
+    def shift(amount):
+        year, zero_month = divmod(month[0].year * 12 + month[0].month - 1 + amount, 12)
+        month[0] = date(year, zero_month + 1, 1)
+        draw()
+
+    previous = ttk.Button(navigation, text="◀", width=4, command=lambda: shift(-1))
+    previous.pack(side="left")
+    ttk.Label(navigation, textvariable=title, anchor="center").pack(side="left", expand=True)
+    following = ttk.Button(navigation, text="▶", width=4, command=lambda: shift(1))
+    following.pack(side="right")
+
+    def toggle(day):
+        if day in pending:
+            pending.remove(day)
+        else:
+            pending.add(day)
+        draw()
+
+    def draw():
+        for widget in grid.winfo_children():
+            widget.destroy()
+        title.set(f"Tháng {month[0].month:02d}/{month[0].year}")
+        previous.configure(state="normal" if month[0] > start.replace(day=1) else "disabled")
+        following.configure(state="normal" if month[0] < end.replace(day=1) else "disabled")
+        for column, label in enumerate(("T2", "T3", "T4", "T5", "T6", "T7", "CN")):
+            ttk.Label(grid, text=label, anchor="center", width=7).grid(row=0, column=column, pady=3)
+        for row, week in enumerate(calendar.monthcalendar(month[0].year, month[0].month), 1):
+            for column, number in enumerate(week):
+                if not number:
+                    continue
+                day = month[0].replace(day=number)
+                button = tk.Button(grid, text=f"✓ {number}" if day in pending else str(number),
+                                   width=6, relief="sunken" if day in pending else "raised",
+                                   background="#DCE6F1" if day in pending else "SystemButtonFace",
+                                   command=lambda value=day: toggle(value))
+                button.grid(row=row, column=column, padx=2, pady=2)
+                if not start <= day <= end:
+                    button.configure(state="disabled")
+        summary.set("Đã chọn: " + (", ".join(f"{day:%d/%m/%Y}" for day in sorted(pending)) or "Không có ngày nghỉ lễ"))
+
+    def apply():
+        on_apply(set(pending))
+        dialog.destroy()
+
+    def clear():
+        pending.clear()
+        draw()
+
+    actions = ttk.Frame(frame)
+    actions.pack(fill="x")
+    ttk.Button(actions, text="Bỏ chọn tất cả", command=clear).pack(side="left")
+    ttk.Button(actions, text="Hủy", command=dialog.destroy).pack(side="right")
+    ttk.Button(actions, text="Áp dụng", command=apply).pack(side="right", padx=8)
+    draw()
+    dialog.grab_set()
+    dialog.focus_set()
+    return dialog
+
+
 def launch_gui():
     import tkinter as tk
     from tkinter import filedialog, messagebox, ttk
@@ -746,8 +836,8 @@ def launch_gui():
     rules, _ = load_setup(CONFIG)
     root = tk.Tk()
     root.title("Tổng hợp chấm công từ RAW và Form")
-    root.geometry("840x440")
-    root.minsize(760, 420)
+    root.geometry("900x540")
+    root.minsize(820, 520)
     frame = ttk.Frame(root, padding=20)
     frame.pack(fill="both", expand=True)
     frame.columnconfigure(1, weight=1)
@@ -759,6 +849,23 @@ def launch_gui():
     status = tk.StringVar(value="Chọn RAW và file xin nghỉ, kiểm tra kỳ rồi bấm Tạo báo cáo.")
     output = {"path": None}
     messages = queue.Queue()
+    selected_holidays = set()
+    holiday_text = tk.StringVar(value="Không có ngày nghỉ lễ")
+
+    def set_holidays(days):
+        selected_holidays.clear()
+        selected_holidays.update(days)
+        holiday_text.set(", ".join(f"{day:%d/%m/%Y}" for day in sorted(days)) or "Không có ngày nghỉ lễ")
+
+    def reset_holidays(*_):
+        try:
+            begin, finish = date.fromisoformat(first.get()), date.fromisoformat(last.get())
+        except ValueError:
+            return
+        set_holidays({day for day in rules["holidays"] if begin <= day <= finish})
+
+    first.trace_add("write", reset_holidays)
+    last.trace_add("write", reset_holidays)
 
     def browse(variable, filetypes):
         value = filedialog.askopenfilename(filetypes=filetypes)
@@ -795,18 +902,33 @@ def launch_gui():
     ttk.Label(dates_frame, text="  đến  ").pack(side="left")
     ttk.Entry(dates_frame, textvariable=last, width=15).pack(side="left")
     ttk.Label(frame, text="Ngày dạng YYYY-MM-DD. calendar là tháng dương lịch.").grid(row=4, column=1, sticky="w", padx=10)
-    ttk.Label(frame, text="Thư mục kết quả").grid(row=5, column=0, sticky="w", pady=8)
-    ttk.Entry(frame, textvariable=destination).grid(row=5, column=1, sticky="ew", padx=10)
+    ttk.Label(frame, text="Ngày nghỉ lễ").grid(row=5, column=0, sticky="w", pady=8)
+    ttk.Label(frame, textvariable=holiday_text, wraplength=560).grid(row=5, column=1, sticky="w", padx=10)
+
+    def pick_holidays():
+        try:
+            begin, finish = date.fromisoformat(first.get()), date.fromisoformat(last.get())
+            if begin > finish:
+                raise ValueError("Ngày bắt đầu phải trước ngày kết thúc.")
+        except ValueError as error:
+            messagebox.showerror("Kiểm tra kỳ báo cáo", str(error))
+            return
+        choose_holidays(root, begin, finish, selected_holidays, set_holidays)
+
+    ttk.Button(frame, text="Chọn ngày…", command=pick_holidays).grid(row=5, column=2)
+    ttk.Label(frame, text="Ngày nghỉ lễ áp dụng cho lần xuất này; không tính ngày làm việc, thiếu lượt hoặc vắng.").grid(row=6, column=1, columnspan=2, sticky="w", padx=10)
+    ttk.Label(frame, text="Thư mục kết quả").grid(row=7, column=0, sticky="w", pady=8)
+    ttk.Entry(frame, textvariable=destination).grid(row=7, column=1, sticky="ew", padx=10)
 
     def choose_directory():
         value = filedialog.askdirectory()
         if value:
             destination.set(value)
 
-    ttk.Button(frame, text="Chọn thư mục", command=choose_directory).grid(row=5, column=2)
+    ttk.Button(frame, text="Chọn thư mục", command=choose_directory).grid(row=7, column=2)
     progress = ttk.Progressbar(frame, mode="indeterminate")
-    progress.grid(row=7, column=0, columnspan=3, sticky="ew", pady=12)
-    ttk.Label(frame, textvariable=status, wraplength=760).grid(row=8, column=0, columnspan=3, sticky="w")
+    progress.grid(row=9, column=0, columnspan=3, sticky="ew", pady=12)
+    ttk.Label(frame, textvariable=status, wraplength=800).grid(row=10, column=0, columnspan=3, sticky="w")
 
     def complete():
         try:
@@ -827,6 +949,7 @@ def launch_gui():
                 raise ValueError("Hãy chọn đủ hai file đang tồn tại.")
             if begin > finish:
                 raise ValueError("Ngày bắt đầu phải trước ngày kết thúc.")
+            run_holidays = set(selected_holidays)
             target = Path(destination.get()) / f"TongHop_TuDong_{begin}_{finish}.xlsx"
             version = 2
             while target.exists() or detail_output_path(target).exists():
@@ -841,7 +964,7 @@ def launch_gui():
 
         def worker():
             try:
-                _, issues = generate(input_raw, input_form, begin, finish, target)
+                _, issues = generate(input_raw, input_form, begin, finish, target, holidays=run_holidays)
                 output["path"] = target
                 messages.put((True, f"Đã tạo hai file:\n{target}\n{detail_output_path(target)}\n"
                                    f"Có {len(issues)} mục trong trang CanKiemTra."))
@@ -852,13 +975,13 @@ def launch_gui():
         root.after(150, complete)
 
     create = ttk.Button(frame, text="Tạo báo cáo", command=run)
-    create.grid(row=6, column=1, sticky="w", padx=10, pady=10)
+    create.grid(row=8, column=1, sticky="w", padx=10, pady=10)
     def open_output():
         folder = output["path"].parent if output["path"] else Path(destination.get())
         folder.mkdir(parents=True, exist_ok=True)
         os.startfile(str(folder))
 
-    ttk.Button(frame, text="Mở thư mục kết quả", command=open_output).grid(row=6, column=2)
+    ttk.Button(frame, text="Mở thư mục kết quả", command=open_output).grid(row=8, column=2)
     root.mainloop()
 
 

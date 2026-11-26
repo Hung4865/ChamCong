@@ -16,7 +16,7 @@ Mẫu Final và danh sách nhân viên đã được lưu sẵn trong cau_hinh. 
 - Chế độ 25-24 lấy từ ngày 25 tháng trước đến ngày 24 tháng báo cáo.
 - Chế độ calendar lấy trọn tháng dương lịch.
 - Có thể sửa trực tiếp hai ô ngày theo dạng YYYY-MM-DD.
-- Mặc định làm thứ Hai đến thứ Sáu. Nhập ngày lễ/ngày nghỉ bổ sung vào holidays trong cau_hinh/quy_tac.json, ví dụ ["2026-09-02"].
+- Mặc định làm thứ Hai đến thứ Sáu. Trong cửa sổ, bấm Chọn ngày… ở mục Ngày nghỉ lễ để chọn nhiều ngày trên lịch rồi Áp dụng. Các ngày được chọn hiện Nghỉ lễ trong ChiTiet và loại khỏi D–J. Bỏ chọn tất cả để xuất kỳ không có ngày lễ. Hủy giữ nguyên lựa chọn. Lựa chọn chỉ áp dụng cho lần xuất, không ghi đè cấu hình. Khi đổi kỳ, danh sách được nạp lại từ holidays trong cau_hinh/quy_tac.json; hãy kiểm tra lại trước khi xuất.
 - RAW cần bao phủ đúng kỳ. Nếu kỳ là 25/9–24/10 thì chọn RAW của cả khoảng này. Tool đưa các ngày toàn đơn vị không có dữ liệu và kỳ RAW không đủ vào CanKiemTra.
 
 ## Cách tính các cột
